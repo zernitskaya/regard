@@ -1,0 +1,25 @@
+#RewriteCond %{REQUEST_URI} (.*)
+#RewriteRule ^(.*)$ https://digitalfury.pro/ [L,R=301]
+
+AddDefaultCharset UTF-8
+RewriteEngine on
+      RewriteRule ^back-to-school.html$ back-to-school.php
+      RewriteRule ^amd-ryzen.html$ amd-ryzen.php
+      RewriteRule ^delivery.html$ delivery.php
+      RewriteRule ^devastator-xlc.html$ devastator-xlc.php
+      RewriteRule ^dominator-ultra.html$ dominator-ultra.php
+      RewriteRule ^exchange.html$ exchange.php
+      RewriteRule ^griffin-power.html$ griffin-power.php
+      RewriteRule ^hellcat-pro.html$ hellcat-pro.php
+      RewriteRule ^index.html$ index.php
+      RewriteRule ^pro-gamer-3000.html$ pro-gamer-3000.php
+      RewriteRule ^raven-x-treme.html$ raven-x-treme.php
+      RewriteRule ^service.html$ service.php
+      RewriteRule ^super-price.html$ super-price.php
+      RewriteRule ^thanks.html$ thanks.php
+      RewriteRule ^world-of-tanks.html$ world-of-tanks.php
+      RewriteRule ^zeus-evo.html$ zeus-evo.php
+      RewriteRule ^amd_ryzen_threadripper.html$ amd_ryzen_threadripper.php
+      RewriteRule ^aventador.html$ aventador.php
+      RewriteRule ^intel_x299.html$ intel_x299.php
+      RewriteRule ^GTA_5_Edition.html$ GTA_5_Edition.php

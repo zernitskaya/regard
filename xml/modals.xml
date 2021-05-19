@@ -1,0 +1,2600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<regard>
+	<!-- Дублирующийся блок -->
+	<modal>
+		<!-- Id товара должен соотвествовать его порядковому номеру в XML-файле. Отсчет начинать с 0 -->
+		<id>0</id>
+		<!-- Название -->
+		<name>Корпус X04</name>
+		<!-- Фотки -->
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/x04/76.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/x04/113.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/x04/105.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/x04/121.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/x04/133.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/x04/129.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/x04/131.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/x04/411.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Ширина</name>
+				<value>19 см</value>
+			</option>
+			<option>
+				<name>Разрешение</name>
+				<value>100500х100500</value>
+			</option>
+			<option>
+				<name>Кол-во цветов</name>
+				<value>1 гугол</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>1</id>
+		<name>Корпус F01</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/F01/144.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/F01/155.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/F01/157.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/F01/160.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/F01/170.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/F01/411.jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>2</id>
+		<name>Корпус DTS</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/40.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/50.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/183.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/187.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/189.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/171.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/412.jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>3</id>
+		<name>LogicPower 7701</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/LogicPower7701/393.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/LogicPower7701/395.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/LogicPower7701/401.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/LogicPower7701/414.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/417.jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>4</id>
+		<name>Корпус Frime FC-901BRed</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrimeFC-901BRed/345.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrimeFC-901BRed/323.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrimeFC-901BRed/350.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrimeFC-901BRed/326.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrimeFC-901BRed/329.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrimeFC-901BRed/414.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/417.jpg</pic>	
+		</pics>
+	</modal>
+	<modal>
+		<id>5</id>
+		<name>Корпус Frontier Extractor</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierExtractor/229.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierExtractor/269.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierExtractor/276.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierExtractor/236.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierExtractor/239.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierExtractor/410.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/417.jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>6</id>
+		<name>Корпус Frontier Warrior</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierWarrior/334.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierWarrior/335.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierWarrior/337.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierWarrior/342.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierWarrior/239.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierWarrior/410.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/417.jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>7</id>
+		<name>Корпус Frontier Rainbow</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierRainbow/371.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierRainbow/376.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierRainbow/374.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierRainbow/239.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierRainbow/358.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierRainbow/359.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierRainbow/363.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierRainbow/366.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierRainbow/368.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/FrontierRainbow/410.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/417.jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>8</id>
+		<name>Корпус AEROCOOL PGS Cruisestar</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOLPGSCruisestar/210.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOLPGSCruisestar/242.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOLPGSCruisestar/216.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOLPGSCruisestar/266.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOLPGSCruisestar/224.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOLPGSCruisestar/220.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOLPGSCruisestar/418.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/417.jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>9</id>
+		<name>Корпус Zalman Z11</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/ZalmanZ11/354.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ZalmanZ11/352.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ZalmanZ11/383.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ZalmanZ11/384.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ZalmanZ11/409.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/417.jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>10</id>
+		<name>Корпус AEROCOOL P7</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-292.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-293.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-297.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-298.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-299.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-300.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-301.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-302.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-307.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-308.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-309.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-310.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-311.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-317.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-318.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/PCS_21092017_-405.jpg</pic>
+		</pics>
+	</modal>
+	
+
+	<modal>
+		<!-- Id товара должен соотвествовать его порядковому номеру в XML-файле. Отсчет начинать с 0 -->
+		<id>11</id>
+		<!-- Название -->
+		<name>Монитор 19" PHILIPS 193V5LSB2/10</name>
+		<!-- Фотки -->
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/11-m-19-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/11-m-19-2.jpg</pic>
+		</pics>
+		<!-- Характеристики -->
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>18.5"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>TN+film</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1366 x 768</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс</value>
+			</option>
+			<option>
+				<name>Максимальная частота обновления кадров</name>
+				<value>75 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<!-- Конец дублирующегося блока -->
+	<modal>
+		<id>12</id>
+		<name>Монитор 19" LG 19M38A-B black 5ms</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/12-m-19-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/12-m-19-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>18.5"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>TFT TN</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1366 x 768</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс</value>
+			</option>
+			<option>
+				<name>Максимальная частота обновления кадров</name>
+				<value>75 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>13</id>
+		<name>Монитор 19" SAMSUNG S19F350HNI</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/13-m-19-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/13-m-19-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>18.5"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>PLS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1366 x 768</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>14 мс</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>14</id>
+		<name>Монитор 20" LG 20M38A-B</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/14-m-19-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/14-m-19-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>19.5"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>TN</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1600 х 900</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>15</id>
+		<name>Монитор 22" Philips 223V5LSB2/62 Black VGA</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/15-m-19-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/15-m-19-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>21.5"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>TN</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1920 х 1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>16</id>
+		<name>Монитор 22" SAMSUNG S22D300N VGA</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/16-m-19-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/16-m-19-2.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/16-m-19-3.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>21.5"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>TN</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1920 х 1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>17</id>
+		<name>Монитор 22" SAMSUNG LS22F350F WLED HDMI VGA</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/17-m-19-1.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>21.5"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>TN</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1600 х 900</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>18</id>
+		<name>Монитор 24" S24D300HSI WLED VGA HDMI Black</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/18-m-24-1.png</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/18-m-24-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>24"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>TN</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1920 х 1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>2 мс</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>19</id>
+		<name>Монитор 23" LG 23MP68VQ-P</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/19-m-23-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/19-m-23-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>23"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>IPS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1920 х 1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>20</id>
+		<name>Монитор 24" Dell UltraSharp U2414H Black</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/20-m-24-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/20-m-24-2.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/20-m-24-3.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>23.8"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>IPS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1920 x 1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>8 мс (GTG)</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>21</id>
+		<name>Монитор 25" Dell UltraSharp U2515H</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/21-m-25-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/21-m-25-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>25"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>TN</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>2560 х 1440</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>6-8 мс</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>22</id>
+		<name>Клавиатура LogicPower LP-KB 000</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/22-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/22-k-2.png</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип клавиш</name>
+				<value>Мембранный</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>Подсветка клавиш</name>
+				<value>Отсутсвует</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>460х150х28</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Черный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>23</id>
+		<name>Клавиатура Genius KB110 Black</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/23-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/23-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип клавиш</name>
+				<value>Мембранный</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>Подсветка клавиш</name>
+				<value>Отсутсвует</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>467x40x200</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Черный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>24</id>
+		<name>Клавиатура K120 Logitech USB (920-002522)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/24-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/24-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип клавиш</name>
+				<value>Мембранный</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>Подсветка клавиш</name>
+				<value>Отсутсвует</value>
+			</option>
+			<option>
+				<name>Количество кнопок</name>
+				<value>104</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Черный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>25</id>
+		<name>Клавиатура Genius Scorpion K215 Black</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/25-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/25-k-2.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/25-k-3.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип клавиш</name>
+				<value>Мембранный</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>Подсветка клавиш</name>
+				<value>7 цветов</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>467x28x190</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Черный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>26</id>
+		<name>Клавиатура Gembird KB-6250LU</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/26-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/26-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип клавиш</name>
+				<value>Мембранный</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>Подсветка клавиш</name>
+				<value>Отсутствует</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>459х154х18</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Черный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>27</id>
+		<name>Клавиатура NATEC GENESIS RX39 с трехцветной подсветкой</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/27-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/27-k-2.png</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип клавиш</name>
+				<value>Мембранный</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>Подсветка клавиш</name>
+				<value>3 цвета</value>
+			</option>
+			<option>
+				<name>Количество клавиш</name>
+				<value>104</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Черный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>28</id>
+		<name>Клавиатура Aula Expert Gaming Keyboard Be Fire</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/28-k-1.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип клавиш</name>
+				<value>Мембранный</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>Подсветка клавиш</name>
+				<value>Есть</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>450x25x170</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Черный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>29</id>
+		<name>Клавиатура NATEC GENESIS RX22 BACKLIGHT</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/29-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/29-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип клавиш</name>
+				<value>Мембранные X-Scissors</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>Подсветка клавиш</name>
+				<value>Светодиодная</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>462x15x170</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Черный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>30</id>
+		<name>Клавиатура A4Tech Bloody B120 USB Black</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/30-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/30-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Количество клавиш</name>
+				<value>104</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>Подсветка клавиш</name>
+				<value>5 типов LED-подсветки</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>458x37x180</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Черный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>31</id>
+		<name>Клавиатура Tesoro Durandal G1N Blue Switch</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/31-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/31-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип клавиш</name>
+				<value>Механические</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>Подсветка клавиш</name>
+				<value>Отсутствует</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>460x166x44</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Черный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>32</id>
+		<name>Клавиатура ASUS Cerberus MKII Gaming Keyboard</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/32-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/32-k-2.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/32-k-3.png</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип клавиш</name>
+				<value>Мембранный</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>Беспроводной</value>
+			</option>
+			<option>
+				<name>Подсветка клавиш</name>
+				<value>Мультицветовая подсветка</value>
+			</option>
+			<option>
+				<name>Масса</name>
+				<value>1100 г</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Черный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>33</id>
+		<name>Клавиатура SteelSeries Apex Raw Black</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/33-k-1.png</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/33-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип клавиш</name>
+				<value>Мембранный</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>Подсветка клавиш</name>
+				<value>Отсутствует</value>
+			</option>
+			<option>
+				<name>Особенности</name>
+				<value>Подставка под запястья</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Черный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>34</id>
+		<name>Клавиатура Kingston HyperX Alloy FPS MX blue switch (HX-KB1BL1-RU/A5)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/34-k-1.png</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип клавиш</name>
+				<value>Механические Cherry MX Blue</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>Подсветка клавиш</name>
+				<value>Отсутствует</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>442x36x129</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Черный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>35</id>
+		<name>Мышь LogicFox LF-MS 111 USB</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/35-k-1.png</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Оптический</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>800</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>114x65x38</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрно-серебристая</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>36</id>
+		<name>Мышка Vinga MS-637 black</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/36-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/36-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Оптический</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>800-2000</value>
+			</option>
+			<option>
+				<name>Количество кнопок</name>
+				<value>5</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>37</id>
+		<name>Мышь  Logitech B100</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/37-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/37-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Оптический</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>800</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>62x37x113</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>38</id>
+		<name>Мышь Trust Ziva Gaming mouse</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/38-k-1.png</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/38-k-2.png</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Оптический</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>800-2000</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>73x40x128</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный с серым</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>39</id>
+		<name>Мышь LogicFox Gaming Series LF-GM 046</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/39-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/39-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Оптический</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>до 3200</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>118х77х43</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Красная с черным</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>40</id>
+		<name>Мышь NATEC GENESIS XENON 200 OPTICAL</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/40-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/40-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Оптический</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>до 3000</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>76x124x44</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный с красным</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>41</id>
+		<name>Мышь A4Tech X-710BK</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/41-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/41-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Оптический</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>400-2000</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>69x39x122</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>42</id>
+		<name>Мышь Tesoro Sharur</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/42-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/42-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Оптический</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>до 40000</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>124x39x67.5</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>43</id>
+		<name>Мышь A4Tech Bloody V8M</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/43-k-1.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Оптический</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>до 2000</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>82x42x122</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>44</id>
+		<name>Мышь A4Tech Bloody R8</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/44-k-1.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Оптический</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB+Беспроводной</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>200-3200</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>122x82x42</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>45</id>
+		<name>Мышь NATEC GENESIS GX85 LASER</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/45-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/45-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Лазерный</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>до 8200</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>78x40x139</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>46</id>
+		<name>Мышь SteelSeries Rival 100 Black</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/46-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/46-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Оптический</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>до 4000</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>76x38x120</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>47</id>
+		<name>Мышь Razer Death Adder Elite</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/47-k-1.png</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/47-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Оптический</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>до 16000</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>72x43x127</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>48</id>
+		<name>Мышь Razer Mamba Tournament Edition</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/48-k-1.png</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/48-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип датчика</name>
+				<value>Лазерный + Оптический</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB</value>
+			</option>
+			<option>
+				<name>DPI</name>
+				<value>до 16000</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>70x42.5x128</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>49</id>
+		<name>Комплект LogicFox Combo black</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/49-k-1.png</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/49-k-2.png</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB Беспроводной</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>425х124х28</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>50</id>
+		<name>Комплект Genius SlimStar 2.4G Black</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/50-k-1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/50-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB Беспроводное</value>
+			</option>
+			<option>
+				<name>Количество кнопок</name>
+				<value>106</value>
+			</option>
+			<option>
+				<name>Габариты</name>
+				<value>45x12x2 / 9.98х5.9х3.94 </value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>51</id>
+		<name>Комплект Logitech Wireless Combo MK220</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/51-k-1.png</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/51-k-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Количество кнопок</name>
+				<value>Мышь: 2 + колесико прокрутки</value>
+			</option>
+			<option>
+				<name>Интерфейс коммуникации с ПК</name>
+				<value>USB Беспроводной</value>
+			</option>
+			<option>
+				<name>Цвет</name>
+				<value>Чёрный</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>52</id>
+		<name>WI-FI USB</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/newimg/adapter.png</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/52-w-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип подключения</name>
+				<value>Wi-Fi</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>53</id>
+		<name>WI-FI PCI 1ant</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/53-w-1.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип подключения</name>
+				<value>Wi-Fi</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>54</id>
+		<name>WI-FI PCI-express 1ant</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/54-w-1.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип подключения</name>
+				<value>Wi-Fi</value>
+			</option>
+			<option>
+				<name>Количество антенн</name>
+				<value>2</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>55</id>
+		<name>WI-FI PCI-express 2ant</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/55-w-1.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Тип подключения</name>
+				<value>Wi-Fi</value>
+			</option>
+			<option>
+				<name>Количество антенн</name>
+				<value>3</value>
+			</option>
+		</options>
+	</modal>
+
+
+
+	<modal>
+		<id>56</id>
+		<name>Acer SA220Qbid</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/56.png</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/56-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>56.3x11.5x38.2</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>IPS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1920 x 1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>4 мс</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>57</id>
+		<name>LG 24MP48HQ-P</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/57.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/57-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>23.8"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>IPS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1920 x 1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс (GtG)</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>58</id>
+		<name>LG 24MP59G-P</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/58.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/58-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>23.8"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>IPS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1920 x 1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс (GtG)</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>75 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>59</id>
+		<name>AOC I2481FXH</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/59.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/59-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>23.8"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>IPS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1920 x 1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>4 мс</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>60</id>
+		<name>LG 25UM58-P</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/60.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/60-2.png</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>23.5"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>IPS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>2560x1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс (GtG)</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>61</id>
+		<name>Dell SE2717H</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/61.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/61-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>27"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>IPS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1920 x 1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>6 мс</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>62</id>
+		<name>LG 24MP88HV-S</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/62.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/62-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>23.8"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>IPS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1920 x 1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс (GTG)</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>63</id>
+		<name>Dell P2717H</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/63.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/63-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>27"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>IPS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>1920 x 1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>6 мс</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>64</id>
+		<name>LG 29UM59-P</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/64.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/64-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>29"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>IPS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>2560x1080</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>75 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>65</id>
+		<name>AOC Q2577PWQ (Black)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/65.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/65-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>25"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>IPS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>2560 x 1440</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс (GTG)</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>66</id>
+		<name>Logitech HD Webcam C270 (960-001063)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/66.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/66-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Количество мегапикселей</name>
+				<value>3.0</value>
+			</option>
+			<option>
+				<name>Разрешение видео</name>
+				<value>1280 x 720</value>
+			</option>
+			<option>
+				<name>Встроенный микрофон</name>
+				<value>есть</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>67</id>
+		<name>Logitech C170 (960-001066)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/67.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/67-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Количество мегапикселей</name>
+				<value>0.7</value>
+			</option>
+			<option>
+				<name>Разрешение видео</name>
+				<value>1024 x 768</value>
+			</option>
+			<option>
+				<name>Встроенный микрофон</name>
+				<value>есть</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>68</id>
+		<name>Acme CA04 (4770070872420)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/68.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/68-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Разрешение видео</name>
+				<value>640x480</value>
+			</option>
+			<option>
+				<name>Встроенный микрофон</name>
+				<value>есть</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>69</id>
+		<name>Defender C-110 (63110)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/69.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/69-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Количество мегапикселей</name>
+				<value>0.3</value>
+			</option>
+			<option>
+				<name>Разрешение видео</name>
+				<value>640 x 480</value>
+			</option>
+			<option>
+				<name>Встроенный микрофон</name>
+				<value>есть</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>70</id>
+		<name>REAL-EL FC-250</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/70.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/70-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Количество мегапикселей</name>
+				<value>1.3</value>
+			</option>
+			<option>
+				<name>Разрешение видео</name>
+				<value>1280 x 960</value>
+			</option>
+			<option>
+				<name>Встроенный микрофон</name>
+				<value>есть</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>71</id>
+		<name>Genius FaceCam 2020 (32200233101)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/71.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/71-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Количество мегапикселей</name>
+				<value>2.0</value>
+			</option>
+			<option>
+				<name>Разрешение видео</name>
+				<value>1600 x 1200</value>
+			</option>
+			<option>
+				<name>Встроенный микрофон</name>
+				<value>без микрофона</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>72</id>
+		<name>Trust SpotLight Webcam Pro</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/72.png</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/72-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Количество мегапикселей</name>
+				<value>0.3</value>
+			</option>
+			<option>
+				<name>Разрешение видео</name>
+				<value>640 x 480</value>
+			</option>
+			<option>
+				<name>Встроенный микрофон</name>
+				<value>есть</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>73</id>
+		<name>Genius FaceCam 1000</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/73.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/73-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Разрешение видео</name>
+				<value>1280x720</value>
+			</option>
+			<option>
+				<name>Встроенный микрофон</name>
+				<value>без микрофона</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>74</id>
+		<name>Sennheiser PC 3 CHAT</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/74.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/74-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Чувствительность наушников</name>
+				<value>95 дБ</value>
+			</option>
+			<option>
+				<name>Интерфейс проводного подключения</name>
+				<value>2 x mini-jack разъем 3.5 мм</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>75</id>
+		<name>Gemix W-360 Black-Blue</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/75.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/75-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Чувствительность наушников</name>
+				<value>102 дБ</value>
+			</option>
+			<option>
+				<name>Интерфейс проводного подключения</name>
+				<value>2 x mini-jack разъем 3.5 мм</value>
+			</option>
+			<option>
+				<name>Тип наушников</name>
+				<value>Закрытые</value>
+			</option>
+			<option>
+				<name>Диапазон частот наушников</name>
+				<value>20 - 20000 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>76</id>
+		<name>SteelSeries Siberia RAW Prism (61410)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/76.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/76-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Чувствительность наушников</name>
+				<value>94 дБ</value>
+			</option>
+			<option>
+				<name>Интерфейс проводного подключения</name>
+				<value>1 x USB</value>
+			</option>
+			<option>
+				<name>Конструкция микрофона</name>
+				<value>Встроенный в корпус наушников</value>
+			</option>
+			<option>
+				<name>Диапазон частот наушников</name>
+				<value>20 - 20000 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>77</id>
+		<name>Sven AP-U988MV Black-Red (AP-U988MV black-red)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/77.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/77-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Чувствительность наушников</name>
+				<value>106 ± 2 дБ</value>
+			</option>
+			<option>
+				<name>Сопротивление наушников</name>
+				<value>32 Ом</value>
+			</option>
+			<option>
+				<name>Чувствительность микрофона</name>
+				<value>-58 ± 2 дБ дБ</value>
+			</option>
+			<option>
+				<name>Диапазон частот наушников</name>
+				<value>100 – 10 000 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>78</id>
+		<name>Kingston HyperX Cloud Stinger (HX-HSCS-BK/EE)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/78.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/78-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Особенности</name>
+				<value>Съемный кабель</value>
+			</option>
+			<option>
+				<name>Сопротивление наушников</name>
+				<value>65 Ом</value>
+			</option>
+			<option>
+				<name>Интерфейс проводного подключения</name>
+				<value>1 x mini-jack (разъем 3.5 мм)</value>
+			</option>
+			<option>
+				<name>Диапазон частот наушников</name>
+				<value>13-27000 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>79</id>
+		<name>A4Tech Bloody G501 Black/Red (4711421909778)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/79.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Чувствительность наушников</name>
+				<value>100 дБ</value>
+			</option>
+			<option>
+				<name>Сопротивление наушников</name>
+				<value>32 Ом</value>
+			</option>
+			<option>
+				<name>Чувствительность микрофона</name>
+				<value>- 58 дБ</value>
+			</option>
+			<option>
+				<name>Диапазон частот наушников</name>
+				<value>20 Гц - 20 000 Гц</value>
+			</option>
+			<option>
+				<name>Интерфейс проводного подключения</name>
+				<value>1 x USB</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>80</id>
+		<name>ASUS Strix 2.0 Black (90YH00H1-B1UA00)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/80.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/80-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Чувствительность наушников</name>
+				<value>98 дБ</value>
+			</option>
+			<option>
+				<name>Сопротивление наушников</name>
+				<value>32 Ом</value>
+			</option>
+			<option>
+				<name>Чувствительность микрофона</name>
+				<value>40 дБ</value>
+			</option>
+			<option>
+				<name>Диапазон частот наушников</name>
+				<value>20 - 20000 Гц</value>
+			</option>
+			<option>
+				<name>Интерфейс проводного подключения</name>
+				<value>1 x mini-jack разъем 3.5 мм</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>81</id>
+		<name>Kingston HyperX Cloud II (KHX-HSCP-GM) Gun Metal</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/81.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/81-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Чувствительность наушников</name>
+				<value>98 дБ</value>
+			</option>
+			<option>
+				<name>Сопротивление наушников</name>
+				<value>65 Ом</value>
+			</option>
+			<option>
+				<name>Диапазон частот наушников</name>
+				<value>13-27000 Гц</value>
+			</option>
+			<option>
+				<name>Интерфейс проводного подключения</name>
+				<value>1 x mini-jack (разъем 3.5 мм)</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>82</id>
+		<name>SVEN MS-302 Black</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/82.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/82-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Интерфейсы</name>
+				<value>USB 
+					SD-ридером 
+					RCA-RCA 
+					RCA-3.5 мм (Mini-Jack)</value>
+			</option>
+			<option>
+				<name>Формат акустики</name>
+				<value>2.1</value>
+			</option>
+			<option>
+				<name>Диапазон частот</name>
+				<value>Сабвуфер: 40 – 150 Гц 
+					Сателлиты: 150 – 20 000 Гц</value>
+			</option>
+			<option>
+				<name>Особенности</name>
+				<value>со Встроенным FM-приемником</value>
+			</option>
+			<option>
+				<name>Дополнительно</name>
+				<value>Возможность подключения к различным источникам звука
+					Встроенный проигрыватель аудиофайлов с носителей памяти
+					Встроенное FM-радио
+					Буквено-цифровой LED-дисплей
+					Пульт дистанционного управления
+					Режимы «Stand By», «Mute»</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>83</id>
+		<name>Logitech S120</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/83.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/83-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Комплект</name>
+				<value>2 колонки
+					Соединительные аудио-кабели
+					Фиксированный сетевой кабель
+					Руководство пользователя
+					Упаковка</value>
+			</option>
+			<option>
+				<name>Формат акустики</name>
+				<value>2.0</value>
+			</option>
+			<option>
+				<name>Диапазон частот</name>
+				<value>50 Гц - 20 кГц</value>
+			</option>
+			<option>
+				<name>Интерфейсы</name>
+				<value>3.5 мм (Mini-Jack)</value>
+			</option>
+			<option>
+				<name>Дополнительно</name>
+				<value>Регулятор громкости и 3,5 мм разъем на боковой панели</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>84</id>
+		<name>Logitech Z213 (980-000942)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/84.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/84-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Комплект</name>
+				<value>Питание: 7 Вт (среднеквадр. значение) / 14 Вт (пиковое значение)
+					Сателлитные колонки:
+					2 шт. по 1.5 Вт (среднеквадр. значение) (при сопротивлении 4 Ом, частоте 1 кГц и суммарном значении коэффициента нелинейных искажений 10%)
+					Вогнутый купольный динамик диаметром 5 см
+					Сабвуфер:
+					4 Вт (среднеквадр. значение) (при сопротивлении 4 Ом, частоте 100 Гц и суммарном значении коэффициента нелинейных искажений 10%)
+					Встроенный регулятор уровня низких частот
+					Направленный вниз купольный динамик диаметром 10 см</value>
+			</option>
+			<option>
+				<name>Формат акустики</name>
+				<value>2.1</value>
+			</option>
+			<option>
+				<name>Диапазон частот</name>
+				<value>65 - 20000 Гц</value>
+			</option>
+			<option>
+				<name>Интерфейсы</name>
+				<value>3.5 мм (Mini-Jack)</value>
+			</option>
+			<option>
+				<name>Размеры</name>
+				<value>Сателлит: 14.2 x 7.9 x 7.6 см
+					Сабвуфер: 18.3 x 13 x 19.3 см</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>85</id>
+		<name>Genius SP-HF160 Black (31731063100)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/85.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/85-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Комплект</name>
+				<value>2 сателлита
+					Руководство пользователя</value>
+			</option>
+			<option>
+				<name>Формат акустики</name>
+				<value>2.0</value>
+			</option>
+			<option>
+				<name>Размеры</name>
+				<value>84 x 84 x 129 мм
+					Вес: 0.644 кг</value>
+			</option>
+			<option>
+				<name>Интерфейсы</name>
+				<value>3.5 мм (Mini-Jack)</value>
+			</option>
+			<option>
+				<name>Дополнительно</name>
+				<value>Встроенные бас-усилители
+					Регулятор громкости</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>86</id>
+		<name>A4Tech X7-300MP</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/86.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Материал</name>
+				<value>Нескользящая резиновая основа
+					Матерчатая поверхность, приятная на ощупь</value>
+			</option>
+			<option>
+				<name>Тип поверхности</name>
+				<value>Speed</value>
+			</option>
+			<option>
+				<name>Размеры</name>
+				<value>437 x 350 мм</value>
+			</option>
+			<option>
+				<name>Толщина</name>
+				<value>3 мм</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>87</id>
+		<name>SteelSeries QcK+ (63003)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/87.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/87-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Материал</name>
+				<value> Ткань</value>
+			</option>
+			<option>
+				<name>Размеры</name>
+				<value>250 x 210 мм</value>
+			</option>
+			<option>
+				<name>Толщина</name>
+				<value>2 мм</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>88</id>
+		<name>Razer Gigantus Elite L Gaming Black/Green (RZ02-01830200-R3M1)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/88.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/88-2.png</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Материал</name>
+				<value>Верхний слой: ткань
+					Нижний слой: резина</value>
+			</option>
+			<option>
+				<name>Тип поверхности</name>
+				<value>Speed</value>
+			</option>
+			<option>
+				<name>Размеры</name>
+				<value>455 x 455 мм</value>
+			</option>
+			<option>
+				<name>Толщина</name>
+				<value>5 мм</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>89</id>
+		<name>NATEC Genesis M12 Maxi Gaming Mousepad (NPG-0660)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/89.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/89-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Материал</name>
+				<value>Поверхность из текстурированной ткани
+					Противоскользящий прорезиненный нижний слой</value>
+			</option>
+			<option>
+				<name>Тип поверхности</name>
+				<value>Control</value>
+			</option>
+			<option>
+				<name>Размеры</name>
+				<value>900 x 450 мм</value>
+			</option>
+			<option>
+				<name>Толщина</name>
+				<value>2.5 мм</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>90</id>
+		<name>Kingston HyperX Fury L Black (HX-MPFS-L)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/90.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/90-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Материал</name>
+				<value>Ткань, каучук</value>
+			</option>
+			<option>
+				<name>Тип поверхности</name>
+				<value>Speed</value>
+			</option>
+			<option>
+				<name>Размеры</name>
+				<value>450 x 400 мм</value>
+			</option>
+			<option>
+				<name>Толщина</name>
+				<value>3.45 мм</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>91</id>
+		<name>LG 29UM59-P</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/new/img/91.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/new/img/91-2.jpg</pic>
+		</pics>
+		<options>
+			<option>
+				<name>Диагональ дисплея</name>
+				<value>27"</value>
+			</option>
+			<option>
+				<name>Тип матрицы</name>
+				<value>IPS</value>
+			</option>
+			<option>
+				<name>Максимальное разрешение экрана</name>
+				<value>3840x2160</value>
+			</option>
+			<option>
+				<name>Время реакции матрицы</name>
+				<value>5 мс (GtG)</value>
+			</option>
+			<option>
+				<name>Частота обновления кадров</name>
+				<value>60 Гц</value>
+			</option>
+		</options>
+	</modal>
+	<modal>
+		<id>92</id>
+		<name>AZZA Photios 250 Gaming </name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/azza-photios-dimensions-1200.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/photios250-comp-1200.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/photios250-backthreecomp-1200.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/photios250-front-1200.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/Azza-photios-top-1200.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/photios250-backthree-noncomp-1200.jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>93</id>
+		<name>Cooler Master MasterBox 5 </name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/MasterBox5/MB1.png</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/MasterBox5/MB2.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/MasterBox5/MB3.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/MasterBox5/MB4.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/MasterBox5/MB5.jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>94</id>
+		<name>Corsair Crystal 460X Black</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/Corsair/corsair1.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Corsair/corsair22.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Corsair/corsair3.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Corsair/corsair4.jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>95</id>
+		<name>Raidmax Viper 2, Mid-Tower (49 x 20,6 x 46,2 см)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/Corsair/RECARD0293.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Corsair/RECARD0308.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Corsair/RECARD0284.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Corsair/RECARD0276.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Corsair/RECARD-161.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Corsair/RECARD0315.jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>96</id>
+		<name>Raidmax Viper 2, Mid-Tower (49 x 20,6 x 46,2 см)</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/Carbide/carbide (1).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Carbide/carbide (2).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Carbide/carbide (3).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Carbide/carbide (4).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Carbide/carbide (5).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Carbide/carbide (6).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Carbide/carbide (7).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/Carbide/carbide (8).jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>97</id>
+		<name>Cooler Master MasterCase Maker 5t</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/ms5t/5t (1).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ms5t/5t (7).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ms5t/5t (10).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ms5t/5t (11).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ms5t/5t (2).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ms5t/5t (3).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ms5t/5t (5).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ms5t/5t (4).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ms5t/5t (6).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ms5t/5t (8).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/ms5t/5t (9).jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>98</id>
+		<name>Cooler Master MasterCase 5 Pro</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/mspro5/pro5 (5).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/mspro5/pro5 (4).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/mspro5/pro5 (8).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/mspro5/pro5 (2).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/mspro5/pro5 (10).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/mspro5/pro5 (7).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/mspro5/pro5 (9).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/mspro5/pro5 (6).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/mspro5/pro5 (3).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/mspro5/pro5 (1).jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>99</id>
+		<name>Thermaltake Versa C21 RGB</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/c21/c21 (9).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c21/c21 (8).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c21/c21 (6).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c21/c21 (7).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c21/c21 (10).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c21/c21 (2).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c21/c21 (11).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c21/c21 (5).jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>100</id>
+		<name>Thermaltake Versa C23</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/c23/c23 (2).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c23/c23 (5).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c23/c23 (7).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c23/c23 (9).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c23/c23 (11).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c23/c23 (6).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c23/c23 (3).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c23/c23 (4).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c23/c23 (10).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c23/c23 (8).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c23/c23 (1).jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>101</id>
+		<name>GameMax VEGA</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/vega/vega (1).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/vega/vega (2).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/vega/vega (5).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/vega/vega (3).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/vega/vega (4).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/vega/vega (6).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/vega/vega (7).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/vega/vega (8).jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>102</id>
+		<name>Cougar Panzer S</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/cougare/cougar (7).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/cougare/cougar (1).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/cougare/cougar (2).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/cougare/cougar (6).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/cougare/cougar (4).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/cougare/cougar (5).jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/cougare/cougar (3).jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>103</id>
+		<name>Gamemax H603</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/gamemax603.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/AEROCOOL-P7/gamemax603.jpg</pic>
+		</pics>
+	</modal>
+	<modal>
+		<id>104</id>
+		<name>Thermaltake Versa C22 RGB</name>
+		<pics>
+			<pic>http://xn--80afeb8cd.com/cases/1/c22/c22.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c22/c222.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c22/c223.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c22/c224.jpg</pic>
+			<pic>http://xn--80afeb8cd.com/cases/1/c22/c225.jpg</pic>
+		</pics>
+	</modal>
+</regard>

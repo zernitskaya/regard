@@ -1,0 +1,3950 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<regard>
+	<!-- Дата акции -->
+	<promo>
+		<day>12.12.2018</day>
+		<word>12 декабря</word>
+		<code>http://megatimer.ru/s/fa4ad5dcfa70e6ef20ccf622148031f2.js</code>
+	</promo>	
+
+	<!-- Дополнения (Windows 10, 7...) -->
+	<dops>
+		<dop>
+			<name>Windows 10</name>
+			<price>3799</price>
+		</dop>
+		<dop>
+			<name>Windows 7</name>
+			<price>4000</price>
+		</dop>
+		<dop>
+			<name>Установить Microsoft Office</name>
+			<price>1799</price>
+		</dop>
+		<dop>
+			<name>Установить Wi-Fi адаптер</name>
+			<price>349</price>
+		</dop>
+		<dop>
+			<name>Установить Антивирус Total Security</name>
+			<price>299</price>
+		</dop>
+	</dops>
+
+	<!-- Акционные предложения -->
+	<offers>
+		<offer>
+			<id>0</id>
+			<name>Игровая клавиатура с LED подсветкой</name>
+			<price>299</price>
+		</offer>
+		<offer>
+			<id>1</id>
+			<name>Microsoft Office Professional Plus</name>
+			<price>1799</price>
+		</offer>
+		<offer>
+			<id>2</id>
+			<name>Microsoft Windows 10 Pro</name>
+			<price>3799</price>
+		</offer>
+		<offer>
+			<id>3</id>
+			<name>802.11AC Dual Band Wireless USB Adapter</name>
+			<price>349</price>
+		</offer>
+		<offer>
+			<id>4</id>
+			<name>Гарнитура HyperX Cloud Stinger Gaming</name>
+			<price>1599</price>
+		</offer>
+		<offer>
+			<id>5</id>
+			<name>Microsoft Windows 10 Pro с USB</name>
+			<price>299</price>
+		</offer>
+		<offer>
+			<id>6</id>
+			<name>Windows 7</name>
+			<price>4000</price>
+		</offer>
+		<offer>
+			<id>7</id>
+			<name>Microsoft Office Professional Plus</name>
+			<price>1799</price>
+		</offer>
+		<offer>
+			<id>8</id>
+			<name>Microsoft Windows 10 Pro</name>
+			<price>3799</price>
+		</offer>
+		<offer>
+			<id>9</id>
+			<name>Конвертер HDMI на VGA</name>
+			<price>249</price>
+		</offer>
+		<offer>
+			<id>10</id>
+			<name>Антивирус</name>
+			<price>299</price>
+		</offer>
+	</offers>
+
+	<!-- Дополнительные вентиляторы -->
+	<dopvents>
+		<dopvent>
+			<id>0</id>
+			<name>Вентилятор Thermaltake Riing 12 Red LED</name>
+			<price>449</price>
+		</dopvent>
+		<dopvent>
+			<id>1</id>
+			<name>Вентилятор Thermaltake Riing 12 Blue LED</name>
+			<price>449</price>
+		</dopvent>
+		<dopvent>
+			<id>2</id>
+			<name>Вентилятор Cooling Baby 12cm Blue</name>
+			<price>290</price>
+		</dopvent>
+		<dopvent>
+			<id>3</id>
+			<name>Вентилятор Cooling Baby 12cmRed</name>
+			<price>290</price>
+		</dopvent>
+		<dopvent>
+			<id>4</id>
+			<name>3x [Blue] Thermaltake Riing 12 120mm Вентилятор</name>
+			<price>1347</price>
+		</dopvent>
+		<dopvent>
+			<id>5</id>
+			<name>3x [Red] Thermaltake Riing 12 120mm Вентилятор</name>
+			<price>1347</price>
+		</dopvent>
+	</dopvents>
+
+	<!-- Веб-камеры -->
+	<webcams>
+		<webcam>
+			<id>0</id>
+			<name>Logitech HD Webcam C270 (960-001063)</name>
+			<price>810</price>
+		</webcam>
+		<webcam>
+			<id>1</id>
+			<name>Logitech C170 (960-001066)</name>
+			<price>554</price>
+		</webcam>
+		<webcam>
+			<id>2</id>
+			<name>Acme CA04 (4770070872420)</name>
+			<price>279</price>
+		</webcam>
+		<webcam>
+			<id>3</id>
+			<name>Defender C-110 (63110)</name>
+			<price>170</price>
+		</webcam>
+		<webcam>
+			<id>4</id>
+			<name>REAL-EL FC-250</name>
+			<price>378</price>
+		</webcam>
+		<webcam>
+			<id>5</id>
+			<name>Genius FaceCam 2020 (32200233101)</name>
+			<price>473</price>
+		</webcam>
+		<webcam>
+			<id>6</id>
+			<name>Trust SpotLight Webcam Pro</name>
+			<price>384</price>
+		</webcam>
+		<webcam>
+			<id>7</id>
+			<name>Genius FaceCam 1000</name>
+			<price>513</price>
+		</webcam>
+	</webcams>
+
+	<!-- Колонки -->
+	<speakers>
+		<speaker>
+			<id>0</id>
+			<name>SVEN MS-302 Black</name>
+			<price>1202</price>
+		</speaker>
+		<speaker>
+			<id>0</id>
+			<name>Logitech S120</name>
+			<price>311</price>
+		</speaker>
+		<speaker>
+			<id>0</id>
+			<name>Logitech Z213 (980-000942)</name>
+			<price>1269</price>
+		</speaker>
+		<speaker>
+			<id>0</id>
+			<name>Genius SP-HF160 Black (31731063100)</name>
+			<price>224</price>
+		</speaker>
+	</speakers>
+
+	<!-- Мониторы -->
+	<monitors>
+		<monitor>
+			<id>0</id>
+			<name>Монитор 19" LG 19M38A-B</name>
+			<price>2082</price>
+		</monitor>
+		<monitor>
+			<id>1</id>
+			<name>Монитор 19" SAMSUNG S19F350HNI</name>
+			<price>2199</price>
+		</monitor>
+		<monitor>
+			<id>2</id>
+			<name>Монитор 20" LG 20M38A-B</name>
+			<price>2376</price>
+		</monitor>
+		<monitor>
+			<id>3</id>
+			<name>Монитор 22" Philips 223V5LSB2/62 Black</name>
+			<price>2556</price>
+		</monitor>
+		<monitor>
+			<id>4</id>
+			<name>Монитор 22" SAMSUNG LS22F350F  WLED HDMI VGA</name>
+			<price>3240</price>
+		</monitor>
+		<monitor>
+			<id>5</id>
+			<name>Монитор 23" LG 23MP68VQ-P</name>
+			<price>4779</price>
+		</monitor>
+		<monitor>
+			<id>6</id>
+			<name>Монитор 24" Dell UltraSharp U2414H Black</name>
+			<price>7101</price>
+		</monitor>
+		<monitor>
+			<id>7</id>
+			<name>Монитор 25" Dell UltraSharp U2515H</name>
+			<price>9855</price>
+		</monitor>
+		<monitor>
+			<id>8</id>
+			<name>Монитор 24" S24D300HSI WLED VGA HDMI Black</name>
+			<price>3874</price>
+		</monitor>
+		<monitor>
+			<id>9</id>
+			<name>Монитор 19" PHILIPS 193V5LSB2/10 16:9 LED Black 5ms</name>
+			<price>2003</price>
+		</monitor>
+		<monitor>
+			<id>10</id>
+			<name>Монитор 22" SAMSUNG S22D300N VGA</name>
+			<price>2615</price>
+		</monitor>
+		<monitor>
+			<id>11</id>
+			<name>Acer SA220Qbid</name>
+			<price>3564</price>
+		</monitor>
+		<monitor>
+			<id>12</id>
+			<name>LG 24MP48HQ-P</name>
+			<price>4401</price>
+		</monitor>
+		<monitor>
+			<id>13</id>
+			<name>LG 24MP59G-P</name>
+			<price>4914</price>
+		</monitor>
+		<monitor>
+			<id>14</id>
+			<name>AOC I2481FXH</name>
+			<price>5238</price>
+		</monitor>
+		<monitor>
+			<id>15</id>
+			<name>LG 25UM58-P</name>
+			<price>5373</price>
+		</monitor>
+		<monitor>
+			<id>16</id>
+			<name>Dell SE2717H</name>
+			<price>6615</price>
+		</monitor>
+		<monitor>
+			<id>17</id>
+			<name>LG 24MP88HV-S</name>
+			<price>6399</price>
+		</monitor>
+		<monitor>
+			<id>18</id>
+			<name>Dell P2717H</name>
+			<price>7965</price>
+		</monitor>
+		<monitor>
+			<id>19</id>
+			<name>LG 29UM59-P</name>
+			<price>7938</price>
+		</monitor>
+		<monitor>
+			<id>20</id>
+			<name>AOC Q2577PWQ (Black)</name>
+			<price>10000</price>
+		</monitor>
+		<monitor>
+			<id>21</id>
+			<name>LG 27UD58-B</name>
+			<price>13299</price>
+		</monitor>
+	</monitors>
+
+	<!-- Клавиатуры -->
+	<keyboards>
+		<keyboard>
+			<id>0</id>
+			<name>Клавиатура LogicPower LP-KB 000</name>
+			<price>103</price>
+		</keyboard>
+		<keyboard>
+			<id>1</id>
+			<name>Клавиатура Genius KB110 Black</name>
+			<price>176</price>
+		</keyboard>
+		<keyboard>
+			<id>2</id>
+			<name>Клавиатура K120 Logitech USB (920-002522)</name>
+			<price>324</price>
+		</keyboard>
+		<keyboard>
+			<id>3</id>
+			<name>Клавиатура Genius Scorpion K215 Black</name>
+			<price>365</price>
+		</keyboard>
+		<keyboard>
+			<id>4</id>
+			<name>Клавиатура Aula Expert Gaming Keyboard Be Fire</name>
+			<price>675</price>
+		</keyboard>
+		<keyboard>
+			<id>5</id>
+			<name>Клавиатура SteelSeries Apex Raw Black</name>
+			<price>2106</price>
+		</keyboard>
+		<keyboard>
+			<id>6</id>
+			<name>Клавиатура Gembird KB-6250LU</name>
+			<price>576</price>
+		</keyboard>
+		<keyboard>
+			<id>7</id>
+			<name>Клавиатура NATEC GENESIS RX22 BACKLIGHT</name>
+			<price>756</price>
+		</keyboard>
+		<keyboard>
+			<id>8</id>
+			<name>Клавиатура A4Tech Bloody B120 USB Black</name>
+			<price>878</price>
+		</keyboard>
+		<keyboard>
+			<id>9</id>
+			<name>Клавиатура Tesoro Durandal G1N Blue Switch</name>
+			<price>1917</price>
+		</keyboard>
+		<keyboard>
+			<id>10</id>
+			<name>Клавиатура ASUS Cerberus MKII Gaming Keyboard</name>
+			<price>1323</price>
+		</keyboard>
+		<keyboard>
+			<id>11</id>
+			<name>Клавиатура Kingston HyperX Alloy FPS MX blue switch (HX-KB1BL1-RU/A5)</name>
+			<price>3213</price>
+		</keyboard>
+		<keyboard>
+			<id>12</id>
+			<name>Клавиатура NATEC GENESIS RX39</name>
+			<price>648</price>
+		</keyboard>
+	</keyboards>
+
+
+	<!-- Мышки -->
+	<mouses>
+		<mouse>
+			<id>0</id>
+			<name>Мышь LogicFox LF-MS 111 USB</name>
+			<price>85</price>
+		</mouse>
+		<mouse>
+			<id>1</id>
+			<name>Мышь Logitech B100</name>
+			<price>165</price>
+		</mouse>
+		<mouse>
+			<id>2</id>
+			<name>Мышь LogicFox Gaming Series LF-GM 046</name>
+			<price>211</price>
+		</mouse>
+		<mouse>
+			<id>3</id>
+			<name>Мышь SteelSeries Rival 100 Black</name>
+			<price>999</price>
+		</mouse>
+		<mouse>
+			<id>4</id>
+			<name>Мышь Razer Mamba Tournament Edition</name>
+			<price>2916</price>
+		</mouse>
+		<mouse>
+			<id>5</id>
+			<name>Мышка Vinga MS-637 black</name>
+			<price>135</price>
+		</mouse>
+		<mouse>
+			<id>6</id>
+			<name>Мышь Trust Ziva Gaming mouse</name>
+			<price>179</price>
+		</mouse>
+		<mouse>
+			<id>7</id>
+			<name>Мышь NATEC GENESIS XENON 200 OPTICAL</name>
+			<price>392</price>
+		</mouse>
+		<mouse>
+			<id>8</id>
+			<name>Мышь A4Tech X-710BK</name>
+			<price>446</price>
+		</mouse>
+		<mouse>
+			<id>9</id>
+			<name>Мышь Tesoro Sharur</name>
+			<price>505</price>
+		</mouse>
+		<mouse>
+			<id>10</id>
+			<name>Мышь A4Tech Bloody V8M</name>
+			<price>519</price>
+		</mouse>
+		<mouse>
+			<id>11</id>
+			<name>Мышь A4Tech Bloody R8</name>
+			<price>973</price>
+		</mouse>
+		<mouse>
+			<id>12</id>
+			<name>Мышь NATEC GENESIS GX85 LASER</name>
+			<price>945</price>
+		</mouse>
+		<mouse>
+			<id>13</id>
+			<name>Мышь Razer Death Adder Elite</name>
+			<price>2498</price>
+		</mouse>
+	</mouses>
+
+	<!-- Комлекты -->
+	<complects>
+		<complect>
+			<id>0</id>
+			<name>Комплект LogicFox Combo black</name>
+			<price>324</price>
+		</complect>
+		<complect>
+			<id>1</id>
+			<name>Комплект Genius SlimStar 2.4G Black</name>
+			<price>427</price>
+		</complect>
+		<complect>
+			<id>2</id>
+			<name>Комплект Logitech Wireless Combo MK220</name>
+			<price>756</price>
+		</complect>
+	</complects>
+
+	<!-- Коврики -->
+	<carpets>
+		<carpet>
+			<id>0</id>
+			<name>A4Tech X7-300MP </name>
+			<price>122</price>
+		</carpet>
+		<carpet>
+			<id>1</id>
+			<name>SteelSeries QcK+ (63003)</name>
+			<price>473</price>
+		</carpet>
+		<carpet>
+			<id>2</id>
+			<name>Razer Gigantus Elite L Gaming Black/Green (RZ02-01830200-R3M1)</name>
+			<price>783</price>
+		</carpet>
+		<carpet>
+			<id>3</id>
+			<name>NATEC Genesis M12 Maxi Gaming Mousepad (NPG-0660)</name>
+			<price>351</price>
+		</carpet>
+		<carpet>
+			<id>4</id>
+			<name>Kingston HyperX Fury L Black (HX-MPFS-L)</name>
+			<price>419</price>
+		</carpet>
+	</carpets>
+
+	<!-- Кабели -->
+	<cabels>
+		<cabel>
+			<id>0</id>	
+			<name>Кабель HDMI на HDMI 1.5 м </name>
+			<price>190</price>
+		</cabel>
+		<cabel>
+			<id>1</id>
+			<name>Кабель HDMI на HDMI 3 м</name>
+			<price>249</price>
+		</cabel>
+		<cabel>
+			<id>2</id>
+			<name>Кабель DVI-D на DVI-D 1.8 м</name>
+			<price>249</price>
+		</cabel>
+		<cabel>
+			<id>3</id>
+			<name>Конвертер HDMI на VGA</name>
+			<price>290</price>
+		</cabel>
+	</cabels>
+
+	<!-- Гарнитуры -->
+	<garns>
+		<garn>
+			<id>0</id>
+			<name>Sennheiser PC 3 CHAT</name>
+			<price>648</price>
+		</garn>
+		<garn>
+			<id>1</id>
+			<name>Gemix W-360 Black-Blue</name>
+			<price>467</price>
+		</garn>
+		<garn>
+			<id>2</id>
+			<name>SteelSeries Siberia RAW Prism (61410)</name>
+			<price>999</price>
+		</garn>
+		<garn>
+			<id>3</id>
+			<name>Sven AP-U988MV Black-Red (AP-U988MV black-red)</name>
+			<price>891</price>
+		</garn>
+		<garn>
+			<id>4</id>
+			<name>Kingston HyperX Cloud Stinger (HX-HSCS-BK/EE)</name>
+			<price>1593</price>
+		</garn>
+		<garn>
+			<id>5</id>
+			<name>A4Tech Bloody G501 Black/Red (4711421909778)</name>
+			<price>1269</price>
+		</garn>
+		<garn>
+			<id>6</id>
+			<name>ASUS Strix 2.0 Black (90YH00H1-B1UA00)</name>
+			<price>2160</price>
+		</garn>
+		<garn>
+			<id>7</id>
+			<name>Kingston HyperX Cloud II (KHX-HSCP-GM) Gun Metal</name>
+			<price>2835</price>
+		</garn>
+	</garns>
+
+	<!-- Wi-fi адаптеры -->
+	<wifis>
+		<wifi>
+			<id>0</id>
+			<name>WI-FI USB </name>
+			<price>349</price>
+		</wifi>
+		<wifi>
+			<id>1</id>
+			<name>WI-FI PCI 1ant</name>
+			<price>490</price>
+		</wifi>
+		<wifi>
+			<id>2</id>
+			<name>WI-FI PCI-express 1ant</name>
+			<price>499</price>
+		</wifi>
+		<wifi>
+			<id>3</id>
+			<name>WI-FI PCI-express 2ant</name>
+			<price>699</price>
+		</wifi>
+	</wifis>
+
+	<!-- Вентиляторы -->
+
+	<fans>
+		<fan>
+			<id>0</id>
+			<name>Корпусный вентилятор</name>
+			<price>0</price>
+			<short>Корпусный вентилятор</short>
+		</fan>
+		<fan>
+			<id>1</id>
+			<name>Вентилятор Thermaltake Riing 12 Red LED</name>
+			<price>449</price>
+			<short>Riing 12 Red</short>
+		</fan>
+		<fan>
+			<id>2</id>
+			<name>Вентилятор Thermaltake Riing 12 Blue LED</name>
+			<price>449</price>
+			<short>Riing 12 Blue</short>
+		</fan>
+		<fan>
+			<id>3</id>
+			<name>Вентилятор Cooling Baby 12cm Blue</name>
+			<price>290</price>
+			<short>Cooling Baby Blue</short>
+		</fan>
+		<fan>
+			<id>4</id>
+			<name>Вентилятор Cooling Baby 12cmRed</name>
+			<price>290</price>
+			<short>Cooling Baby Red</short>
+		</fan>
+		<fan>
+			<id>5</id>
+			<name>Не устанавливать вентилятор</name>
+			<price>0</price>
+			<short>Без вентилятора</short>
+		</fan>
+		<fan>
+			<id>6</id>
+			<name>Вентилятор Lightning Orchid</name>
+			<price>1047</price>
+			<short>Lightning Orchid</short>
+		</fan>
+		<fan>
+			<id>7</id>
+			<name>Вентилятор Lightning Lilac</name>
+			<price>1047</price>
+			<short>Lightning Lilac</short>
+		</fan>
+		<fan>
+			<id>8</id>
+			<name>Вентилятор Lightning Scarlet</name>
+			<price>1047</price>
+			<short>Lightning Scarlet</short>
+		</fan>
+		<fan>
+			<id>9</id>
+			<name>Вентилятор Lightning Rainbow</name>
+			<price>349</price>
+			<short>Lightning Rainbo</short>
+		</fan>
+		<fan>
+			<id>10</id>
+			<name>Вентилятор Lightning Rainbow x 3</name>
+			<price>1047</price>
+			<short>Lightning Rainbow x 3</short>
+		</fan>
+		<fan>
+			<id>11</id>
+			<name>3x [Blue] Thermaltake Riing 12 120mm Вентилятор</name>
+			<price>1347</price>
+			<short>Lightning Rainbow x 3</short>
+		</fan>
+		<fan>
+			<id>12</id>
+			<name>В3x [Red] Thermaltake Riing 12 120mm Вентилятор</name>
+			<price>1347</price>
+			<short>Lightning Rainbow x 3</short>
+		</fan>
+	</fans>
+
+	<!-- Процессоры -->
+	<processors>
+		<cpu>
+			<id>0</id>
+			<name>2-ЯДРА AMD A4-4000 3,2GHz, sFM2+</name>
+			<price>659</price>
+			<short>AMD A4-4000 3,2GHz</short>
+		</cpu>
+		<cpu>
+			<id>1</id>
+			<name>2-ЯДРА AMD A4-7300 3,8GHz, sFM2+</name>
+			<price>870</price>
+			<short>AMD A4-7300 3,8GHz</short>
+		</cpu>
+		<cpu>
+			<id>2</id>
+			<name>2-ЯДРА AMD A6-7400 3,9GHz, sFM2+</name>
+			<price>1292</price>
+			<short>AMD A6-7400 3,9GHz</short>
+		</cpu>
+		<cpu>
+			<id>3</id>
+			<name>4 ядра AMD A8-5500 3,7GHz, sFM2+</name>
+			<price>1890</price>
+			<short>AMD A8-5500 3,7GHz</short>
+		</cpu>
+		<cpu>
+			<id>4</id>
+			<name>10-ЯДЕР AMD A8-7600 3,8GHz, sFM2+</name>
+			<price>2003</price>
+			<short>AMD A8-7600 3,8GHz</short>
+		</cpu>
+		<cpu>
+			<id>5</id>
+			<name>12-ЯДЕР AMD A10-7800 3,9GHz, sFM2+</name>
+			<price>2268</price>
+			<short>AMD A10-7800 3,9GHz</short>
+		</cpu>
+		<cpu>
+			<id>6</id>
+			<name>AMD Athlon X4 845 3,8GHz, sFM2+</name>
+			<price>1134</price>
+			<short>AMD Athlon X4 840 3,8GHz</short>
+		</cpu>
+		<cpu>
+			<id>7</id>
+			<name>AMD Athlon X4 860K 4,0GHz, sFM2+</name>
+			<price>1581</price>
+			<short>Athlon X4 860K 4,0GHz</short>
+		</cpu>
+		<cpu>
+			<id>8</id>
+			<name>Intel Celeron G3900 2,80GHz, s1151</name>
+			<price>896</price>
+			<short>Intel G3900 2,80GHz</short>
+		</cpu>
+		<cpu>
+			<id>9</id>
+			<name>Intel Pentium G4560 3.5GHz, s1151 Kaby Lake</name>
+			<price>1661</price>
+			<short>Intel Pentium G4560 3.5GHz</short>
+		</cpu>
+		<cpu>
+			<id>10</id>
+			<name>Intel Core i3-7100 3.90 GHz, s1151 Kaby Lake (Intel Core i3-6100 3.70 GHz, s1151)</name>
+			<price>2978</price>
+			<short>Intel Core i3-7100 3.90 GHz</short>
+		</cpu>
+		<cpu>
+			<id>11</id>
+			<name>Intel Core i5-6400 3.30 GHz, s1151</name>
+			<price>5435</price>
+			<short></short>
+		</cpu>
+		<cpu>
+			<id>12</id>
+			<name>Intel Core i7-6700 4.00 GHz, s1151</name>
+			<price>9370</price>
+			<short></short>
+		</cpu>
+		<cpu>
+			<id>13</id>
+			<name>Intel Core i7-6700K 4.20 GHz, s1151</name>
+			<price>10450</price>
+			<short></short>
+		</cpu>
+		<cpu>
+			<id>14</id>
+			<name>Intel Core i5-7400 3.50 GHz, s1151 Kaby Lake</name>
+			<price>4691</price>
+			<short>Intel Core i5-7400 3.50 GHz</short>
+		</cpu>
+		<cpu>
+			<id>15</id>
+			<name>Intel Core i5-7600 4.10 GHz, s1151 Kaby Lake</name>
+			<price>6298</price>
+			<short>Intel Core i5-7600 4.10 GHz</short>
+		</cpu>
+		<cpu>
+			<id>16</id>
+			<name>Intel Core i7-7700 4.20 GHz, s1151 Kaby Lake</name>
+			<price>7985</price>
+			<short>Intel Core i7-7700 4.20 GHz</short>
+		</cpu>
+		<cpu>
+			<id>17</id>
+			<name>Intel Core i7-7700K 4.50 GHz, s1151 Kaby Lake</name>
+			<price>8959</price>
+			<short>Intel Core i7-7700K 4.50 GHz</short>
+		</cpu>
+		<cpu>
+			<id>18</id>
+			<name>AMD FX-4300 3,8GHz, sAM3+</name>
+			<price>1595</price>
+			<short>AMD FX-4300 3,8GHz</short>
+		</cpu>
+		<cpu>
+			<id>19</id>
+			<name>AMD FX-6300 4,1GHz, sAM3+</name>
+			<price>2056</price>
+			<short>AMD FX-6300 4,1GHz</short>
+		</cpu>
+		<cpu>
+			<id>20</id>
+			<name>AMD FX-8300 4,2GHz, sAM3+</name>
+			<price>2609</price>
+			<short>AMD FX-8300 4,2GHz</short>
+		</cpu>
+		<cpu>
+			<id>21</id>
+			<name>4-x ядерный AMD Ryzen 5 1400 3.4GHz</name>
+			<price>4216</price>
+			<short>AMD Ryzen 5 1400 3.4GHz</short>
+		</cpu>
+		<cpu>
+			<id>22</id>
+			<name>4-x ядерный AMD Ryzen 5 1500X 3.7GHz</name>
+			<price>4480</price>
+			<short>AMD Ryzen 5 1500X 3.7GHz</short>
+		</cpu>
+		<cpu>
+			<id>23</id>
+			<name>6-ти ядерный AMD Ryzen 5 1600 3.6GHz</name>
+			<price>5534</price>
+			<short>AMD Ryzen 5 1600 3.6GHz</short>
+		</cpu>
+		<cpu>
+			<id>24</id>
+			<name>8-ти ядерный AMD Ryzen 7 1700 3.7GHz</name>
+			<price>8169</price>
+			<short>AMD Ryzen 7 1700 3.7GHz</short>
+		</cpu>
+		<cpu>
+			<id>25</id>
+			<name>Intel Core i5-7500, s1151 Kaby Lake</name>
+			<price>5244</price>
+			<short>Intel Core i5-7500</short>
+		</cpu>
+		<cpu>
+			<id>26</id>
+			<name>AMD Ryzen 3 1200 </name>
+			<price>2794</price>
+			<short>AMD Ryzen 3 1200</short>
+		</cpu>
+		<cpu>
+			<id>27</id>
+			<name>AMD Ryzen 3 1300X</name>
+			<price>3452</price>
+			<short>AMD Ryzen 3 1300X</short>
+		</cpu>
+		<cpu>
+			<id>28</id>
+			<name>AMD Ryzen 7 1700X</name>
+			<price>9486</price>
+			<short>AMD Ryzen 7 1700X</short>
+		</cpu>
+		<cpu>
+			<id>29</id>
+			<name>AMD Ryzen 7 1800X</name>
+			<price>10145</price>
+			<short>AMD Ryzen 7 1800X</short>
+		</cpu>
+		<cpu>
+			<id>30</id>
+			<name>i9-7900x</name>
+			<price>32262</price>
+			<short></short>
+		</cpu>
+		<cpu>
+			<id>31</id>
+			<name>i7-7820x</name>
+			<price>19810</price>
+			<short></short>
+		</cpu>
+		<cpu>
+			<id>32</id>
+			<name>i7-7800x</name>
+			<price>11745</price>
+			<short></short>
+		</cpu>
+		<cpu>
+			<id>33</id>
+			<name>i7-7740x</name>
+			<price>9339</price>
+			<short></short>
+		</cpu>
+		<cpu>
+			<id>34</id>
+			<name>Intel Core i5-7600K</name>
+			<price>6799</price>
+			<short>Intel Core i5-7600K</short>
+		</cpu>
+		<cpu>
+			<id>35</id>
+			<name>Intel Pentium G4400 3,30GHz, s1151</name>
+			<price>1344</price>
+			<short>Intel Pentium G4400 3,30GHz</short>
+		</cpu>
+		<cpu>
+			<id>36</id>
+			<name>Intel Pentium G4600 3.6GHz, s1151 Kaby Lake</name>
+			<price>1950</price>
+			<short>Intel Pentium G4600 3.6GHz</short>
+		</cpu>
+		<cpu>
+			<id>37</id>
+			<name>Core i3-8100</name>
+			<price>3189</price>
+			<short>Intel Core i3-8100</short>
+		</cpu>
+		<cpu>
+			<id>38</id>
+			<name>Core i3-8350K</name>
+			<price>4902</price>
+			<short>Intel Core i3-8350K</short>
+		</cpu>
+		<cpu>
+			<id>39</id>
+			<name>Intel Core i5-8400</name>
+			<price>5850</price>
+			<short>Intel Core i5-8400</short>
+		</cpu>
+		<cpu>
+			<id>40</id>
+			<name>6-ядерный Intel Core i5-8600K</name>
+			<price>7826</price>
+			<short>Intel Core i5-8600K</short>
+		</cpu>
+		<cpu>
+			<id>41</id>
+			<name>6-ядерный Intel Core i7-8700</name>
+			<price>9355</price>
+			<short>Intel Core i7-8700</short>
+		</cpu>
+		<cpu>
+			<id>42</id>
+			<name>6-ядерный Intel Core i7-8700K</name>
+			<price>10672</price>
+			<short>Intel Core i7-8700K</short>
+		</cpu>
+		<cpu>
+			<id>43</id>
+			<name>4-ядерный Intel Core i7-7740X 4.3 - 4.5GHz Turbo, LGA 2066, 112W TDP</name>
+			<price>8696</price>
+			<short>Intel Core i7-7740X 4.5GHz</short>
+		</cpu>
+		<cpu>
+			<id>44</id>
+			<name>6-ядерный Intel Core i7-7800X 3.5 - 4.0GHz Turbo, LGA 2066, 140W TDP</name>
+			<price>10935</price>
+			<short>Intel Core i7-7800X 4.0GHz</short>
+		</cpu>
+		<cpu>
+			<id>45</id>
+			<name>8-ядерный Intel Core i7-7820X 3.6 - 4.3GHz Turbo, LGA 2066, 140W TDP</name>
+			<price>18445</price>
+			<short>Intel Core i7-7820X 4.3GHz</short>
+		</cpu>
+		<cpu>
+			<id>46</id>
+			<name>10-ядерный Intel Core i9-7900X 3.3 - 4.3GHz Turbo, LGA 2066, 140W TDP</name>
+			<price>30039</price>
+			<short>Intel Core i9-7900X 4.3GHz</short>
+		</cpu>
+		<cpu>
+			<id>47</id>
+			<name>12-ядерный Intel Core i9-7920X 2.9 - 4.3GHz Turbo, LGA 2066, 140W TDP</name>
+			<price>36231</price>
+			<short>Intel Core i9-7920X 4.3GHz</short>
+		</cpu>
+		<cpu>
+			<id>48</id>
+			<name>14-ядерный Intel Core i9-7940X 3.1 - 4.3GHz Turbo, LGA 2066, 165W TDP</name>
+			<price>42292</price>
+			<short>Intel Core i9-7940X 4.3GHz</short>
+		</cpu>
+		<cpu>
+			<id>49</id>
+			<name>16-ядерный Intel Core i9-7960X 2.8 - 4.2GHz Turbo, LGA 2066, 165W TDP</name>
+			<price>52120</price>
+			<short>Intel Core i9-7960X 4.2GHz</short>
+		</cpu>
+		<cpu>
+			<id>50</id>
+			<name>8-ядерный AMD Ryzen™ Threadripper 1900X 3.8 - 4.0GHz Turbo, 180W TDP</name>
+			<price>14045</price>
+			<short>AMD Ryzen™ Threadripper 1900X 4.0GHz</short>
+		</cpu>
+		<cpu>
+			<id>51</id>
+			<name>12-ядерный AMD Ryzen™ Threadripper 1920X 3.5 - 4.0GHz Turbo, 180W TDP</name>
+			<price>16917</price>
+			<short>AMD Ryzen™ Threadripper 1920X 4.0GHz</short>
+		</cpu>
+		<cpu>
+			<id>52</id>
+			<name>16-ядерный AMD Ryzen™ Threadripper 1950X 3.4 - 4.0GHz Turbo, 180W TDP</name>
+			<price>30039</price>
+			<short>AMD Ryzen™ Threadripper 1950X 4.0GHz</short>
+		</cpu>
+		<cpu>
+			<id>53</id>
+			<name>AMD A6-9500 10-ЯДЕР 3.1 - 3.8 GHz Turbo, AM4, 65W</name>
+			<price>1344</price>
+			<short>AMD A6-9500</short>
+		</cpu>
+		<cpu>
+			<id>54</id>
+			<name>AMD A8-9600 10-ЯДЕР 3.1 - 3.4GHz Turbo, AM4, 65W</name>
+			<price>1687</price>
+			<short>AMD A8-9600</short>
+		</cpu>
+		<cpu>
+			<id>55</id>
+			<name>AMD A10-9700 10-ЯДЕР 3.5 - 3.8GHz Turbo, AM4, 65W</name>
+			<price>2188</price>
+			<short>AMD A10-9700</short>
+		</cpu>
+		<cpu>
+			<id>56</id>
+			<name>AMD A12-9800 12-ЯДЕР 3.5 - 3.8GHz Turbo, AM4, 65W</name>
+			<price>3321</price>
+			<short>AMD A12-9800</short>
+		</cpu>
+		
+
+	</processors>
+
+	<!-- Видеокарты -->
+
+	<videocards>
+		<videocard>
+			<id>0</id>
+			<name>NVIDIA GeForce GT 730, 2GB GDDR5</name>
+			<price>1871</price>
+			<short>GeForce GT 730, 2GB</short>
+		</videocard>
+		<videocard>
+			<id>1</id>
+			<name>NVIDIA GeForce GT 1030, 2GB GDDR5 HDMI Display Port</name>
+			<price>2319</price>
+			<short>GeForce GT 1030, 2GB</short>
+		</videocard>
+		<videocard>
+			<id>2</id>
+			<name>Radeon R7 360 2048Mb GDDR5</name>
+			<price>2830</price>
+			<short>Radeon R7 360, 2ГБ</short>
+		</videocard>
+		<videocard>
+			<id>3</id>
+			<name>NVIDIA GeForce GTX 750 Ti, 2GB GDDR5</name>
+			<price>3373</price>
+			<short>GeForce GTX 750 Ti, 2GB</short>
+		</videocard>
+		<videocard>
+			<id>4</id>
+			<name>AMD Radeon RX 550, 2GB GDDR5</name>
+			<price>3057</price>
+			<short>Radeon RX 550, 2GB</short>
+		</videocard>
+		<videocard>
+			<id>5</id>
+			<name>AMD Radeon RX 460, 2GB GDDR5</name>
+			<price>3450</price>
+			<short>Radeon RX 460, 2GB</short>
+		</videocard>
+		<videocard>
+			<id>6</id>
+			<name>NVIDIA GeForce GTX 1050, 2GB GDDR5</name>
+			<price>4085</price>
+			<short>GeForce GTX 1050, 2GB</short>
+		</videocard>
+		<videocard>
+			<id>7</id>
+			<name>AMD Radeon RX 560 4GB GDDR5</name>
+			<price>4953</price>
+			<short>Radeon RX 560, 4GB</short>
+		</videocard>
+		<videocard>
+			<id>8</id>
+			<name>AMD Radeon RX 570 - 4GB GDDR5</name>
+			<price>8873</price>
+			<short>AMD Radeon RX 570, 4GB</short>
+		</videocard>
+		<videocard>
+			<id>9</id>
+			<name>NVIDIA GeForce GTX 1050 ti, 4GB GDDR5</name>
+			<price>6087</price>
+			<short>GeForce GTX 1050 Ti, 4GB</short>
+		</videocard>
+		<videocard>
+			<id>10</id>
+			<name>NVIDIA GeForce GTX 1060 - 3GB (VR-Ready)</name>
+			<price>9486</price>
+			<short>GeForce GTX 1060, 3GB</short>
+		</videocard>
+		<videocard>
+			<id>11</id>
+			<name>NVIDIA GeForce GTX 1060 - 6GB (VR-Ready)</name>
+			<price>11331</price>
+			<short>GeForce GTX 1060, 6GB</short>
+		</videocard>
+		<videocard>
+			<id>12</id>
+			<name>AMD Radeon RX 580 - 8GB (VR-Ready)</name>
+			<price>14060</price>
+			<short>AMD Radeon RX 580, 8GB</short>
+		</videocard>
+		<videocard>
+			<id>13</id>
+			<name>AMD Radeon RX 580 - 8GB - ASUS STRIX RGB (VR-Ready)</name>
+			<price>12503</price>
+			<short>ASUS STRIX Radeon RX 580, 8GB</short>
+		</videocard>
+		<videocard>
+			<id>14</id>
+			<name>NVIDIA GeForce GTX 1070 - 8GB (VR-Ready)</name>
+			<price>19631</price>
+			<short>GeForce GTX 1070, 8GB</short>
+		</videocard>
+		<videocard>
+			<id>15</id>
+			<name>DUAL GTX1070 O8G, 8GB GDDR5 SLI</name>
+			<price>41262</price>
+			<short>2 x GeForce GTX 1070, 8GB</short>
+		</videocard>
+		<videocard>
+			<id>16</id>
+			<name>NVIDIA GeForce GTX 1070 - 8GB - GIGABYTE G1 Gaming (VR-Ready)</name>
+			<price>19333</price>
+			<short>GIGABYTE GeForce GTX 1070, 8GB</short>
+		</videocard>
+		<videocard>
+			<id>17</id>
+			<name>DUAL GTX1070 GIGABYTE G1 GAMING SLI</name>
+			<price>41666</price>
+			<short>2 x GIGABYTE GTX 1070, 8GB</short>
+		</videocard>
+		<videocard>
+			<id>18</id>
+			<name>NVIDIA GeForce GTX 1080 - 8GB (GDDR5X) (VR-Ready)</name>
+			<price>23452</price>
+			<short>NVIDIA GeForce GTX 1080, 8GB</short>
+		</videocard>
+		<videocard>
+			<id>19</id>вв
+			<name>DUAL GTX 1080 SLI</name>
+			<price>48904</price>
+			<short>2 x NVIDIA GeForce GTX 1080, 8GB</short>
+		</videocard>
+		<videocard>
+			<id>20</id>
+			<name>NVIDIA GeForce GTX 1080 - 8GB - MSI GAMING X (VR-Ready)</name>
+			<price>25199</price>
+			<short>MSI GeForce GTX 1080, 8GB</short>
+		</videocard>
+		<videocard>
+			<id>21</id>
+			<name>GTX 1080 MSI GAMING X SLI</name>
+			<price>53398</price>
+			<short>2 x MSI GeForce GTX 1080, 8GB</short>
+		</videocard>
+		<videocard>
+			<id>22</id>
+			<name>NVIDIA GeForce GTX 1080 - 8GB - ASUS STRIX RGB (VR-Ready)</name>
+			<price>24769</price>
+			<short>ASUS STRIX GTX 1080, 8GB</short>
+		</videocard>
+		<videocard>
+			<id>23</id>
+			<name>DUAL GTX 1080  ASUS STRIX SLI</name>
+			<price>51538</price>
+			<short>2 x ASUS STRIX GTX 1080, 8GB</short>
+		</videocard>
+		<videocard>
+			<id>24</id>
+			<name>NVIDIA GeForce GTX 1080 Ti - 11GB (VR Ready)</name>
+			<price>29986</price>
+			<short>NVIDIA GeForce GTX 1080 Ti, 11G</short>
+		</videocard>
+		<videocard>
+			<id>25</id>
+			<name>GTX 1080TI  SLI</name>
+			<price>61972</price>
+			<short>2 x NVIDIA GeForce GTX 1080 Ti, 11G</short>
+		</videocard>
+		<videocard>
+			<id>26</id>
+			<name>AMD Radeon™ RX Vega 64, 8ГБ</name>
+			<price>21021</price>
+			<short>AMD Radeon™ RX Vega 64, 8ГБ</short>
+		</videocard>
+	</videocards>
+
+	<!-- Куллеры -->
+	<coolers>
+		<cooler>
+			<name>Боксовый кулер процессора</name>
+			<price>0</price>
+			<short>Боксовый кулер</short>
+		</cooler>
+		<cooler>
+			<name>Кулер DeepCool Gamma Archer 120мм</name>
+			<price>251</price>
+			<short>DeepCool Gamma Archer</short>
+		</cooler>
+		<cooler>
+			<name>Кулер DeepCool Gamma Archer PRO</name>
+			<price>317</price>
+			<short>DeepCool Gamma Archer PRO</short>
+		</cooler>
+		<cooler>
+			<name>Кулер DeepСool ICE BLADE PRO V2.0</name>
+			<price>1054</price>
+			<short>DeepСool ICE BLADE PRO</short>
+		</cooler>
+		<cooler>
+			<name>GameMax Iceberg 120</name>
+			<price>1330</price>
+			<short>GameMax Iceberg 120</short>
+		</cooler>
+		<cooler>
+			<name>GameMax Iceberg 240</name>
+			<price>1745</price>
+			<short>GameMax Iceberg 240</short>
+		</cooler>
+		<cooler>
+			<name>DeepCool MAELSTROM 240T</name>
+			<price>1713</price>
+			<short>DeepCool MAELSTROM 240T</short>
+		</cooler>
+		<cooler>
+			<name>DeepCool MAELSTROM 120</name>
+			<price>1371</price>
+			<short>DeepCool MAELSTROM 120</short>
+		</cooler>
+		<cooler>
+			<name>Система водяного охлаждения Corsair Hydro H100i v2</name>
+			<price>3996</price>
+			<short>Corsair Hydro H100i</short>
+		</cooler>
+		<cooler>
+			<name>DeepCool GAMMAXX 300</name>
+			<price>527</price>
+			<short>DeepCool GAMMAXX 300</short>
+		</cooler>
+		<cooler>
+			<name>Кулер для процессора Zalman CNPS10X OPTIMA</name>
+			<price>870</price>
+			<short>Zalman CNPS10X OPTIMA</short>
+		</cooler>
+		<cooler>
+			<name>Кулер для процессора Deepcool GAMMAXX GT</name>
+			<price>1687</price>
+			<short>Deepcool GAMMAXX GT</short>
+		</cooler>
+		<cooler>
+			<name>Водяное охлаждение (СВО) CAPTAIN WHITE 120EX</name>
+			<price>2293</price>
+			<short>CAPTAIN WHITE 120EX</short>
+		</cooler>
+		<cooler>
+			<name>Кулер для процессора GIGABYTE AORUS ATC700</name>
+			<price>2583</price>
+			<short>GIGABYTE AORUS ATC700</short>
+		</cooler>
+		<cooler>
+			<name>Водяное охлаждение (СВО) Deepcool CAPTAIN 240EX WHITE</name>
+			<price>3400</price>
+			<short>Deepcool CAPTAIN 240EX WHITE</short>
+		</cooler>
+		<cooler>
+			<name>Водяное охлаждение (СВО) NZXT Kraken X52</name>
+			<price>4760</price>
+			<short>NZXT Kraken X52</short>
+		</cooler>
+		<cooler>
+			<name>Водяное охлаждение (СВО) DeepCool CAPTAIN 120EX RGB</name>
+			<price>2530</price>
+			<short>DeepCool CAPTAIN 120EX RGB</short>
+		</cooler>
+		<cooler>
+			<name>Водяное охлаждение (СВО) NZXT Kraken X42 140mm</name>
+			<price>0</price>
+			<short>NZXT Kraken X42</short>
+		</cooler>
+		<cooler>
+			<name>Водяное охлаждение (СВО) DEEPCOOL Captain 240EX Gamer Storm</name>
+			<price>3400</price>
+			<short>DEEPCOOL Captain 240EX Gamer Storm</short>
+		</cooler>
+		<cooler>
+			<name>Водяное охлаждение Kraken X62</name>
+			<price>5007</price>
+			<short>Kraken X62</short>
+		</cooler>
+		<cooler>
+			<name>Thermaltake Water 3.0 Extreme</name>
+			<price>3426</price>
+			<short>Thermaltake Water</short>
+		</cooler>
+	</coolers>
+
+	<!-- Оперативки -->
+	<rams>
+		<ram>
+			<name>Нулевой блок</name>
+			<price>0</price>
+		</ram>
+		<ram>
+			<name>4 GB DDR4-2133</name>
+			<price>1186</price>
+			<short>RAM 4 GB</short>
+		</ram>
+		<ram>
+			<name>4 GB DDR4-2133 HyperX Fury black</name>
+			<price>1661</price>
+			<short>RAM 4 GB</short>
+		</ram>
+		<ram>
+			<name>4 GB DDR4-2400 HyperX Fury black</name>
+			<price>1660</price>
+			<short>RAM 4 GB</short>
+		</ram>
+		<ram>
+			<name>8 GB DDR4-2133MHz</name>
+			<price>2376</price>
+			<short>RAM 8 GB</short>
+		</ram>
+		<ram>
+			<name>8 GB DDR4-2400MH</name>
+			<price>2293</price>
+			<short>RAM 8 GB</short>
+		</ram>
+		<ram>
+			<name>8 GB DDR4-2133 HyperX Fury black</name>
+			<price>2899</price>
+			<short>RAM 8 GB</short>
+		</ram>
+		<ram>
+			<name>8 GB DDR4-2400 HyperX Fury black</name>
+			<price>3004</price>
+			<short>RAM 8 GB</short>
+		</ram>
+		<ram>
+			<name>8 GB [4 GB x2] DDR4-2133</name>
+			<price>2372</price>
+			<short>RAM 8 GB</short>
+		</ram>
+		<ram>
+			<name>8 GB [4 GB x2] DDR4-2133 HyperX Fury black</name>
+			<price>3321</price>
+			<short>RAM 8 GB</short>
+		</ram>
+		<ram>
+			<name>16 GB [8 GB x2] DDR4-2133</name>
+			<price>4480</price>
+			<short>RAM 16 GB</short>
+		</ram>
+		<ram>
+			<name>16 GB [8 GB x2] DDR4-2400</name>
+			<price>4585</price>
+			<short>RAM 16 GB</short>
+		</ram>
+		<ram>
+			<name>16 GB [8 GB x2] DDR4-2400 G.Skill Trident Z RGB</name>
+			<price>6035</price>
+			<short>RAM 16 GB</short>
+		</ram>
+		<ram>
+			<name>16 GB [8 GB x2] DDR4-2400 HyperX Fury</name>
+			<price>6008</price>
+			<short>RAM 16 GB</short>
+		</ram>
+		<ram>
+			<name>16 GB [8 GB x2] DDR4-2400 Team T-Force Delta RGB </name>
+			<price>6456</price>
+			<short>RAM 16 GB</short>
+		</ram>
+		<ram>
+			<name>32 GB [8 GB x4] DDR4-2400</name>
+			<price>9170</price>
+			<short>RAM 32 GB</short>
+		</ram>
+		<ram>
+			<name>32 GB [8 GB x4] DDR4-2400 G.Skill Trident Z RGB</name>
+			<price>12068</price>
+			<short>RAM 32 GB</short>
+		</ram>
+		<ram>
+			<name>32 GB [8 GB x4] DDR4-2400 HyperX Fury</name>
+			<price>12226</price>
+			<short>RAM 32 GB</short>
+		</ram>
+		<ram>
+			<name>32 GB [8 GB x4] DDR4-2400 Team T-Force Delta RGB </name>
+			<price>12912</price>
+			<short>RAM 32 GB</short>
+		</ram>
+		<ram>
+			<name>64 GB [16 GB x4] DDR4-2400 </name>
+			<price>18972</price>
+			<short>RAM 64 GB</short>
+		</ram>
+		<ram>
+			<name>64 GB [16 GB x4] DDR4-2400 Kingston HyperX Fury</name>
+			<price>23715</price>
+			<short>RAM 64 GB</short>
+		</ram>
+		<ram>
+			<name>4 GB DDR3-1600</name>
+			<price>870</price>
+			<short>RAM 4 GB</short>
+		</ram>
+		<ram>
+			<name>4 GB DDR3-1600 Kingston HyperX Fury</name>
+			<price>1318</price>
+			<short>RAM 4 GB</short>
+		</ram>
+		<ram>
+			<name>8 GB DDR3-1600</name>
+			<price>1740</price>
+			<short>RAM 8 GB</short>
+		</ram>
+		<ram>
+			<name>8 GB DDR3-1600 Kingston HyperX Fury</name>
+			<price>2346</price>
+			<short>RAM 8 GB</short>
+		</ram>
+		<ram>
+			<name>8 GB [4 GB x2] DDR3-1600</name>
+			<price>1740</price>
+			<short>RAM 8 GB</short>
+		</ram>
+		<ram>
+			<name>8 GB [4 GB x2] DDR3-1600  Kingston HyperX Fury</name>
+			<price>2635</price>
+			<short>RAM 8 GB</short>
+		</ram>
+		<ram>
+			<name>16 GB [8 GB x2] DDR3-1600</name>
+			<price>3479</price>
+			<short>RAM 16 GB</short>
+		</ram>
+		<ram>
+			<name>16 GB [8 GB x2] DDR3-1600 Kingston HyperX Fury</name>
+			<price>4691</price>
+			<short>RAM 16 GB</short>
+		</ram>
+		<ram>
+			<name>16 GB [8 GB x2] DDR4-2666 Kingston HyperX Fury</name>
+			<price>6377</price>
+			<short>RAM 16 GB</short>
+		</ram>
+		<ram>
+			<name>16 GB [8 GB x2] DDR4-3000 Kingston HyperX Predator</name>
+			<price>7062</price>
+			<short>RAM 16 GB</short>
+		</ram>
+		<ram>
+			<name>16 GB [8 GB x2] DDR4-3000 Geil Super Luce Frost White LED</name>
+			<price>6535</price>
+			<short>RAM 16 GB</short>
+		</ram>
+		<ram>
+			<name>16 GB [8 GB x2] DDR4-3000 G.Skill Trident Z RGB</name>
+			<price>6456</price>
+			<short>RAM 16 GB</short>
+		</ram>
+		<ram>
+			<name>32 GB [8 GB x4] DDR4-2666 Kingston HyperX Fury</name>
+			<price>13017</price>
+			<short>RAM 32 GB</short>
+		</ram>
+		<ram>
+			<name>32 GB [8 GB x4] DDR4-3000 Kingston HyperX Predator</name>
+			<price>14124</price>
+			<short>RAM 32 GB</short>
+		</ram>
+		<ram>
+			<name>32 GB [8 GB x4] DDR4-3000 Geil Super Luce Frost White LED</name>
+			<price>13070</price>
+			<short>RAM 32 GB</short>
+		</ram>
+		<ram>
+			<name>32 GB [8 GB x4] DDR4-3000 G.Skill Trident Z RGB</name>
+			<price>12912</price>
+			<short>RAM 32 GB</short>
+		</ram>
+		<ram>
+			<name>64 GB [16 GB x4] DDR4-2666 Kingston HyperX Fury</name>
+			<price>23926</price>
+			<short>RAM 64 GB</short>
+		</ram>
+		<ram>
+			<name>64 GB [8 GB x8] DDR4-2666 Kingston HyperX Fury</name>
+			<price>25507</price>
+			<short>RAM 64 GB</short>
+		</ram>
+		<ram>
+			<name>64 GB [16 GB x4] DDR4-3000 Kingston HyperX Predator</name>
+			<price>24769</price>
+			<short>RAM 64 GB</short>
+		</ram>
+		<ram>
+			<name>64 GB [8 GB x8] DDR4-3000 Kingston HyperX Predator</name>
+			<price>24927</price>
+			<short>RAM 64 GB</short>
+		</ram>
+		<ram>
+			<name>64 GB [8 GB x8] DDR4-3000 Geil Super Luce Frost White LED</name>
+			<price>26877</price>
+			<short>RAM 64 GB</short>
+		</ram>
+		<ram>
+			<name>64 GB [16 GB x4] DDR4-3000 G.Skill Trident Z RGB</name>
+			<price>33036</price>
+			<short>RAM 64 GB</short>
+		</ram>
+		<ram>
+			<name>64 GB [8 GB x8] DDR4-3000 G.Skill Trident Z RGB</name>
+			<price>31357</price>
+			<short>RAM 64 GB</short>
+		</ram>
+	</rams>
+
+	<!-- Жесткие диски -->
+	<hdds>
+		<hdd>
+			<name>Не устанавливать жесткий диск</name>
+			<price>0</price>
+			<short>Бeз HDD</short>
+		</hdd>
+		<hdd>
+			<name>320GB Seagate HDD</name>
+			<price>475</price>
+			<short>320 GB HDD</short>
+		</hdd>
+		<hdd>
+			<name>500GB Seagate HDD</name>
+			<price>765</price>
+			<short>500 GB HDD</short>
+		</hdd>
+		<hdd>
+			<name>1000GB TOSHIBA HDD</name>
+			<price>1134</price>
+			<short>1 TB HDD</short>
+		</hdd>
+		<hdd>
+			<name>2000GB TOSHIBA HDD</name>
+			<price>1740</price>
+			<short>2 TB HDD</short>
+		</hdd>
+		<hdd>
+			<name>3000GB TOSHIBA HDD</name>
+			<price>2267</price>
+			<short>3 TB HDD</short>
+		</hdd>
+		<hdd>
+			<name>4.0TB Toshiba X300 7200rpm 128MB</name>
+			<price>3689</price>
+			<short>4 TB HDD</short>
+		</hdd>
+		<hdd>
+			<name>1 TB WD Blue Hard Drive -- 64MB Cache, 7200RPM, 6.0Gb/s</name>
+			<price>1265</price>
+			<short>1 TB HDD</short>
+		</hdd>
+	</hdds>
+
+	<!-- SSD -->
+	<ssds>
+		<ssd>
+			<name>Не устанавливать SSD накопитель</name>
+			<price>0</price>
+			<short>Без SSD</short>
+		</ssd>
+		<ssd>
+			<name>120 GB Kingston A400 SATA-3 SSD</name>
+			<price>1318</price>
+			<short>120 GB SSD</short>
+		</ssd>
+		<ssd>
+			<name>120 GB Kingston HyperX FURY</name>
+			<price>2108</price>
+			<short>120 GB SSD</short>
+		</ssd>
+		<ssd>
+			<name>Kingston SSDNow UV400 240GB</name>
+			<price>2240</price>
+			<short>240 GB SSD</short>
+		</ssd>
+		<ssd>
+			<name>240 GB Kingston HyperX Savage</name>
+			<price>3479</price>
+			<short>240 GB SSD</short>
+		</ssd>
+		<ssd>
+			<name>250 GB Samsung 850 EVO SSD</name>
+			<price>2767</price>
+			<short>250 GB SSD</short>
+		</ssd>
+		<ssd>
+			<name>500 GB Samsung 850 EVO SSD</name>
+			<price>5060</price>
+			<short>500 GB SSD</short>
+		</ssd>
+		<ssd>
+			<name>1TB Samsung 850 EVO 2.5" SATA III TLC V-NAND</name>
+			<price>9486</price>
+			<short>1 TB SSD</short>
+		</ssd>
+	</ssds>
+
+	<!-- Материнки -->
+	<materinkas>
+		<materinka>
+			<name>Socket 1151, (Intel H110 Chipset, 2 x DDR4, MicroATX)</name>
+			<price>1357</price>
+			<short>Socket 1151</short>
+		</materinka>
+		<materinka>
+			<name>FM2+, (AMD A68H, 2 x DDR3, MicroATX)</name>
+			<price>1134</price>
+			<short>Socket FM2+</short>
+		</materinka>
+		<materinka>
+			<name>AM3+ (AMD 760G, PCI-Ex16, 2 x DDR3, MicroATX)</name>
+			<price>1265</price>
+			<short>Socket AM3+</short>
+		</materinka>
+		<materinka>
+			<name>Socket 1151 (Intel Z270 Chipset, 4 x DDR4, ATX)</name>
+			<price>3479</price>
+			<short>Socket 1151</short>
+		</materinka>
+		<materinka>
+			<name>Socket AM4, (AMD B350, 4 x DDR4, USB 3.1 Type-C)</name>
+			<price>2398</price>
+			<short>Socket AM4</short>
+		</materinka>
+		<materinka>
+			<name>Socket AM4, X370 Gaming Pro Carbon (AMD X370, 4 x DDR4, USB 3.1 Type-C, ATX)</name>
+			<price>3558</price>
+			<short>Socket AM4</short>
+		</materinka>
+		<materinka>
+			<name>AM3+ (AMD 970/980G, PCI-Ex16, 4 x DDR3, MicroATX)</name>
+			<price>2305</price>
+			<short>Socket AM3+</short>
+		</materinka>
+		<materinka>
+			<name>Socket 1151, (Intel B250 Chipset, 4 x DDR4, MicroATX)</name>
+			<price>2082</price>
+			<short>Socket 1151</short>
+		</materinka>
+		<materinka>
+			<name>Socket AM4, (AMD A320, 2 x DDR4, USB 3.1 Type-C)</name>
+			<price>1581</price>
+			<short>Socket AM4</short>
+		</materinka>
+		<materinka>
+			<name>Socket AM4, (AMD B350, 2 x DDR4)</name>
+			<price>2108</price>
+			<short>Socket AM4</short>
+		</materinka>
+		<materinka>
+			<name>Asus Prime X299-A</name>
+			<price>9820</price>
+			<short>0</short>
+		</materinka>
+		<materinka>
+			<name>Asus Prime X299-Deluxe</name>
+			<price>13491</price>
+			<short>0</short>
+		</materinka>
+		<materinka>
+			<name>Gigabyte Z370 HD3P</name>
+			<price>4348</price>
+			<short>Gigabyte Z370 HD3P</short>
+		</materinka>
+		<materinka>
+			<name>Asus PRIME Z370-P </name>
+			<price>4375</price>
+			<short>Asus PRIME Z370-P</short>
+		</materinka>
+		<materinka>
+			<name>Gigabyte Z370XP SLI</name>
+			<price>4691</price>
+			<short>Gigabyte Z370XP SLI</short>
+		</materinka>
+		<materinka>
+			<name>ASUS PRIME Z370-A</name>
+			<price>5455</price>
+			<short>ASUS PRIME Z370-A</short>
+		</materinka>
+		<materinka>
+			<name>ASUS ROG STRIX Z370-F GAMING</name>
+			<price>6193</price>
+			<short>ASUS ROG STRIX Z370-F GAMING</short>
+		</materinka>
+		<materinka>
+			<name>Asus ROG MAXIMUS X HERO</name>
+			<price>9499</price>
+			<short>Asus ROG MAXIMUS X HERO</short>
+		</materinka>
+		<materinka>
+			<name>MSI X299 Raider</name>
+			<price>6641</price>
+			<short>MSI X299 Raider</short>
+		</materinka>
+		<materinka>
+			<name>MSI X299 SLI PLUS</name>
+			<price>7563</price>
+			<short>MSI X299 SLI PLUS</short>
+		</materinka>
+		<materinka>
+			<name>ASUS TUF X299 MARK 2</name>
+			<price>8169</price>
+			<short>ASUS TUF X299 MARK 2</short>
+		</materinka>
+		<materinka>
+			<name>ASUS PRIME X299-A</name>
+			<price>9144</price>
+			<short>ASUS PRIME X299-A</short>
+		</materinka>
+		<materinka>
+			<name>GIGABYTE X299 AORUS Gaming 3</name>
+			<price>9460</price>
+			<short>GIGABYTE X299 AORUS Gaming 3</short>
+		</materinka>
+		<materinka>
+			<name>ASUS PRIME X399-A -- 4x PCIe x16, 2x USB 3.1 Gen2, 8x USB 3.1 Gen1, 2x M.2, Aura RGB</name>
+			<price>9539</price>
+			<short>ASUS PRIME X399-A</short>
+		</materinka>
+		<materinka>
+			<name>ASUS ROG STRIX X399-E Gaming, AMD X399 Chipset, TR4, E-ATX</name>
+			<price>12016</price>
+			<short>ASUS ROG Strix X399-E Gaming</short>
+		</materinka>
+		<materinka>
+			<name>ASUS X399 ROG ZENITH EXTREME - 4x PCIe x16, 2x USB 3.1 Gen2, 8x USB 3.1 Gen1, 3x M.2, Aura RGB</name>
+			<price>17575</price>
+			<short>ASUS ROG ZENITH EXTREME</short>
+		</materinka>
+	</materinkas>
+
+	<!-- Блоки питания -->
+		<blocks>
+		<block>
+			<name>500W DeepCool</name>
+			<price>886</price>
+			<short>500W DeepCool</short>
+		</block>
+		<block>
+			<name>400W Logic Power</name>
+			<price>317</price>
+			<short>400W Logic Power</short>
+		</block>
+		<block>
+			<name>Raidmax Hybrid RX-730SS</name>
+			<price>1397</price>
+			<short>Raidmax Hybrid RX-730SS</short>
+		</block>
+		<block>
+			<name>450W Logic Power</name>
+			<price>457</price>
+			<short>450W Logic Power</short>
+		</block>
+		<block>
+			<name>Блок питания Chieftec 850 W ATX 2.3 APFC</name>
+			<price>3031</price>
+			<short>850W Chieftec</short>
+		</block>
+		<block>
+			<name>430W DeepCool</name>
+			<price>580</price>
+			<short>430W DeepCool</short>
+		</block>
+		<block>
+			<name>1000W</name>
+			<price>3558</price>
+			<short>RAIDMAX 1000W</short>
+		</block>
+		<block>
+			<name>Vinga VPS-1200Pl</name>
+			<price>7553</price>
+			<short>Vinga VPS-1200Pl</short>
+		</block>
+	</blocks>
+
+	<!-- Дисководы -->
+	<disks>
+		<disk>
+			<name>Не устанавливать дисковод</name>
+			<price>0</price>
+			<short>Без дисковода</short>				
+		</disk>
+		<disk>
+			<name>Оптический привод LG DVD±R/RW SATA Super Multi</name>
+			<price>390</price>
+			<short>LG DVD±R/RW</short>				
+		</disk>
+	</disks>
+
+	<!-- Корпуса -->
+	<corpuses>
+		<corpus>
+			<name>Greenvision 1</name>
+			<price>821</price>
+		</corpus>
+		<corpus>
+			<name>Greenvision X04</name>
+			<price>475</price>
+		</corpus>
+		<corpus>
+			<name>Greenvision f01</name>
+			<price>620</price>
+		</corpus>
+		<corpus>
+			<name>Greenvision 7701</name>
+			<price>906</price>
+		</corpus>
+		<corpus>
+			<name>Raidmax Viper 2, Mid-Tower (49 x 20,6 x 46,2 см)</name>
+			<price>1265</price>
+		</corpus>
+		<corpus>
+			<name>Raidmax NINJA 2 Black, Mid-Tower (49,1 x 20,6 x 46,2 см)</name>
+			<price>1265</price>
+		</corpus>
+		<corpus>
+			<name>Aerocool Project 7</name>
+			<price>2952</price>
+		</corpus>
+		<corpus>
+			<name>Frime FC-004B</name>
+			<price>550</price>
+		</corpus>
+		<corpus>
+			<name>Aerocool PGS Cruisestar Advance Black</name>
+			<price>1230</price>
+		</corpus>
+		<corpus>
+			<name>Frime FC-901B Red</name>
+			<price>1107</price>
+		</corpus>
+		<corpus>
+			<name>Frontier Extractor</name>
+			<price>896</price>
+		</corpus>
+		<corpus>
+			<name>Frontier Warrior</name>
+			<price>949</price>
+		</corpus>
+		<corpus>
+			<name>Frontier Rainbow</name>
+			<price>1240</price>
+		</corpus>
+		<corpus>
+			<name>Zalman Z11 Plus Black</name>
+			<price>1977</price>
+		</corpus>
+		<corpus>
+			<name>AZZA Photios 250 Gaming</name>
+			<price>1792</price>
+		</corpus>
+		<corpus>
+			<name>Cooler Master MasterBox 5</name>
+			<price>1977</price>
+		</corpus>
+		<corpus>
+			<name>Corsair Crystal 460X Black</name>
+			<price>4000</price>
+		</corpus>
+		<corpus>
+			<name>Corsair Clear 400C</name>
+			<price>3174</price>
+		</corpus>
+		<corpus>
+			<name>Cooler Master MasterCase Maker 5t</name>
+			<price>6641</price>
+		</corpus>
+		<corpus>
+			<name>Cooler Master MasterCase 5 Pro</name>
+			<price>5041</price>
+		</corpus>
+		<corpus>
+			<name>Thermaltake Versa C21 RGB</name>
+			<price>2322</price>
+		</corpus>
+		<corpus>
+			<name>Thermaltake Versa C23</name>
+			<price>2846</price>
+		</corpus>
+		<corpus>
+			<name>GameMax VEGA</name>
+			<price>2108</price>
+		</corpus>
+		<corpus>
+			<name>Cougar Panzer S</name>
+			<price>3146</price>
+		</corpus>
+		<corpus>
+			<name> GameMax H603</name>
+			<price>789</price>
+		</corpus>
+		<corpus>
+			<name>Thermaltake Versa C22</name>
+			<price>2214</price>
+		</corpus>
+	</corpuses>
+
+	<!-- Компьютеры -->
+	<computers>
+		<comp>
+			<name>GRIFFIN POWER</name>
+			<price>25 999</price>
+			<oldprice>28 136</oldprice>
+			<pp>0</pp>
+			<nacenka>
+				<old>3690</old>
+				<new>2219</new>
+			</nacenka>
+			<games>
+				<game>
+					<name>DOOM 4</name>
+					<fps>125</fps>
+					<percent>93</percent>
+					<color>#33BF36</color>
+					<fps>79</fps>
+					<percent>63</percent>
+					<color>#66CC00</color>
+					<percent>68</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>BATTLEFIELD 1</name>
+					<fps>92</fps>
+					<percent>83</percent>
+					<color>#33BF36</color>
+					<fps>60</fps>
+					<percent>65</percent>
+					<color>#66CC00</color>
+					<percent>61</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>FOR HONOR</name>
+					<fps>75</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>50</fps>
+					<percent>50</percent>
+					<color>#66CC00</color>
+					<percent>55</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>GTA 5</name>
+					<fps>70</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>45</fps>
+					<percent>63</percent>
+					<color>#66CC00</color>
+					<percent>76</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>Ведьмак 3</name>
+					<fps>60</fps>
+					<percent>57</percent>
+					<color>#66CC00</color>
+					<fps>48</fps>
+					<percent>44</percent>
+					<color>#66CC00</color>
+					<percent>93</percent>
+					<color>#33BF36</color>
+				</game>
+				<game>
+					<name>OVERWATCH</name>
+					<fps>166</fps>
+					<percent>115</percent>
+					<color>#66CC00</color>
+					<fps>82</fps>
+					<percent>82</percent>
+					<color>#66CC00</color>
+					<percent>89</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>ARK: Survival Evolved</name>
+					<fps>35</fps>
+					<percent>65</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>PlayerUnknown's Battlegrounds</name>
+					<fps>60</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Minecraft</name>
+					<fps>650</fps>
+					<percent>97</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>League of Legends</name>
+					<fps>180</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>FIFA 18</name>
+					<fps>140</fps>
+					<percent>72</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Wolfenstein II: The New Colossus</name>
+					<fps>83</fps>
+					<percent>60</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Warface</name>
+					<fps>186</fps>
+					<percent>85</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Armored Warfare</name>
+					<fps>55</fps>
+					<percent>55</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Rust</name>
+					<fps>108</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Dota 2</name>
+					<fps>85</fps>
+					<percent>80</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Counter-Strike: Global Offensive</name>
+					<fps>187</fps>
+					<percent>80</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Word of Tanks</name>
+					<fps>72</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Assassin’s Creed Origins</name>
+					<fps>66</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Call of Duty: WWII</name>
+					<fps>110</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+			</games>
+		</comp>
+		<comp>
+			<name>AMD RYZEN</name>
+			<price>39 999</price>
+			<oldprice>42 000</oldprice>
+			<pp>0</pp>
+			<nacenka>
+				<old>4090</old>
+				<new>2586</new>
+			</nacenka>
+			<games>
+				<game>
+					<name>DOOM 4</name>
+					<fps>125</fps>
+					<percent>93</percent>
+					<color>#33BF36</color>
+					<fps>79</fps>
+					<percent>63</percent>
+					<color>#66CC00</color>
+					<percent>68</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>BATTLEFIELD 1</name>
+					<fps>92</fps>
+					<percent>83</percent>
+					<color>#33BF36</color>
+					<fps>60</fps>
+					<percent>65</percent>
+					<color>#66CC00</color>
+					<percent>61</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>FOR HONOR</name>
+					<fps>75</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>50</fps>
+					<percent>50</percent>
+					<color>#66CC00</color>
+					<percent>55</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>GTA 5</name>
+					<fps>70</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>45</fps>
+					<percent>63</percent>
+					<color>#66CC00</color>
+					<percent>76</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>Ведьмак 3</name>
+					<fps>60</fps>
+					<percent>57</percent>
+					<color>#66CC00</color>
+					<fps>48</fps>
+					<percent>44</percent>
+					<color>#66CC00</color>
+					<percent>93</percent>
+					<color>#33BF36</color>
+				</game>
+				<game>
+					<name>OVERWATCH</name>
+					<fps>166</fps>
+					<percent>115</percent>
+					<color>#66CC00</color>
+					<fps>82</fps>
+					<percent>82</percent>
+					<color>#66CC00</color>
+					<percent>89</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>ARK: Survival Evolved</name>
+					<fps>35</fps>
+					<percent>65</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>PlayerUnknown's Battlegrounds</name>
+					<fps>60</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Minecraft</name>
+					<fps>650</fps>
+					<percent>97</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>League of Legends</name>
+					<fps>180</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>FIFA 18</name>
+					<fps>140</fps>
+					<percent>72</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Wolfenstein II: The New Colossus</name>
+					<fps>83</fps>
+					<percent>60</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Warface</name>
+					<fps>186</fps>
+					<percent>85</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Armored Warfare</name>
+					<fps>55</fps>
+					<percent>55</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Rust</name>
+					<fps>108</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Dota 2</name>
+					<fps>85</fps>
+					<percent>80</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Counter-Strike: Global Offensive</name>
+					<fps>187</fps>
+					<percent>80</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Word of Tanks</name>
+					<fps>72</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Assassin’s Creed Origins</name>
+					<fps>66</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Call of Duty: WWII</name>
+					<fps>110</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+			</games>
+		</comp>
+		<comp>
+			<name>RAVEN X-TREME</name>
+			<price>52 900</price>
+			<oldprice>55 694</oldprice>
+			<pp>0</pp>
+			<nacenka>
+				<old>5806</old>
+				<new>3292</new>
+			</nacenka>
+			<games>
+				<game>
+					<name>DOOM 4</name>
+					<fps>125</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>79</fps>
+					<percent>83</percent>
+					<color>#66CC00</color>
+					<percent>90</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>BATTLEFIELD 1</name>
+					<fps>92</fps>
+					<percent>95</percent>
+					<color>#33BF36</color>
+					<fps>60</fps>
+					<percent>90</percent>
+					<color>#66CC00</color>
+					<percent>87</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>CS:GO</name>
+					<fps>202</fps>
+					<percent>80</percent>
+					<color>#33BF36</color>
+					<fps>170</fps>
+					<percent>65</percent>
+					<color>#66CC00</color>
+					<percent>76</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>GTA 5</name>
+					<fps>70</fps>
+					<percent>95</percent>
+					<color>#33BF36</color>
+					<fps>45</fps>
+					<percent>60</percent>
+					<color>#66CC00</color>
+					<percent>87</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>Ведьмак 3</name>
+					<fps>59</fps>
+					<percent>70</percent>
+					<color>#33BF36</color>
+					<fps>48</fps>
+					<percent>45</percent>
+					<color>#66CC00</color>
+					<percent>93</percent>
+					<color>#33BF36</color>
+				</game>
+				<game>
+					<name>OVERWATCH</name>
+					<fps>143</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>102</fps>
+					<percent>78</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>ARK: Survival Evolved</name>
+					<fps>47</fps>
+					<percent>85</percent>
+					<color>#33BF36</color>
+					<fps>25</fps>
+					<percent>70</percent>
+					<color>#66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>PlayerUnknown's Battlegrounds</name>
+					<fps>87</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>27</fps>
+					<percent>65</percent>
+					<color>#66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Minecraft</name>
+					<fps>670</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>37</fps>
+					<percent>75</percent>
+					<color>#66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>League of Legends</name>
+					<fps>206</fps>
+					<percent>95</percent>
+					<color>#33BF36</color>
+					<fps>190</fps>
+					<percent>80</percent>
+					<color>#66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>FIFA 18</name>
+					<fps>210</fps>
+					<percent>87</percent>
+					<color>#33BF36</color>
+					<fps>128</fps>
+					<percent>78</percent>
+					<color>#66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Wolfenstein II: The New Colossus</name>
+					<fps>121</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>53</fps>
+					<percent>65</percent>
+					<color>#66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Warface</name>
+					<fps>150</fps>
+					<percent>95</percent>
+					<color>#33BF36</color>
+					<fps>82</fps>
+					<percent>70</percent>
+					<color>#66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Armored Warfare</name>
+					<fps>79</fps>
+					<percent>79</percent>
+					<color>#33BF36</color>
+					<fps>68</fps>
+					<percent>68</percent>
+					<color>#66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Rust</name>
+					<fps>134</fps>
+					<percent>87</percent>
+					<color>#33BF36</color>
+					<fps>28</fps>
+					<percent>50</percent>
+					<color>#66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Dota 2</name>
+					<fps>134</fps>
+					<percent>93</percent>
+					<color>#33BF36</color>
+					<fps>76</fps>
+					<percent>78</percent>
+					<color>#66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Counter-Strike: Global Offensive</name>
+					<fps>260</fps>
+					<percent>97</percent>
+					<color>#33BF36</color>
+					<fps>190</fps>
+					<percent>75</percent>
+					<color>#66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Word of Tanks</name>
+					<fps>110</fps>
+					<percent>95</percent>
+					<color>#33BF36</color>
+					<fps>67</fps>
+					<percent>72</percent>
+					<color>##66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Assassin’s Creed Origins</name>
+					<fps>85</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>30</fps>
+					<percent>60</percent>
+					<color>#66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Call of Duty: WWII</name>
+					<fps>145</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>75</fps>
+					<percent>55</percent>
+					<color>#66CC00</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+			</games>
+		</comp>
+		<comp>
+			<name>DOMINATOR ULTRA</name>
+			<price>11 799</price>
+			<oldprice>13 422</oldprice>
+			<pp>0</pp>
+			<nacenka>
+				<old>3914</old>
+				<new>1531</new>
+			</nacenka>
+			<games>
+				<game>
+					<name>DOOM 4</name>
+					<fps>49</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>44</fps>
+					<percent>80</percent>
+					<color>#66CC00</color>
+					<percent>67</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>BATTLEFIELD 1</name>
+					<fps>50</fps>
+					<percent>80</percent>
+					<color>#33BF36</color>
+					<fps>45</fps>
+					<percent>75</percent>
+					<color>#66CC00</color>
+					<percent>67</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>FOR HONOR</name>
+					<fps>48</fps>
+					<percent>80</percent>
+					<color>#33BF36</color>
+					<fps>40</fps>
+					<percent>60</percent>
+					<color>#66CC00</color>
+					<percent>69</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>GTA 5</name>
+					<fps>58</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>50</fps>
+					<percent>75</percent>
+					<color>#66CC00</color>
+					<percent>81</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Fall out</name>
+					<fps>56</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>44</fps>
+					<percent>55</percent>
+					<color>#66CC00</color>
+					<percent>93</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>OVERWATCH122</name>
+					<fps>79</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>46</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>ARK: Survival Evolved</name>
+					<fps>28</fps>
+					<percent>50</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>PlayerUnknown's Battlegrounds</name>
+					<fps>40</fps>
+					<percent>45</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Minecraft</name>
+					<fps>420</fps>
+					<percent>95</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>League of Legends</name>
+					<fps>140</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>FIFA 18</name>
+					<fps>106</fps>
+					<percent>65</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Wolfenstein II: The New Colossus</name>
+					<fps>47</fps>
+					<percent>45</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Warface</name>
+					<fps>105</fps>
+					<percent>82</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Armored Warfare</name>
+					<fps>46</fps>
+					<percent>46</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Rust</name>
+					<fps>62</fps>
+					<percent>65</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Dota 2</name>
+					<fps>115</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Counter-Strike: Global Offensive</name>
+					<fps>170</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Word of Tanks</name>
+					<fps>55</fps>
+					<percent>60</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Assassin’s Creed Origins</name>
+					<fps>41</fps>
+					<percent>65</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Call of Duty: WWII</name>
+					<fps>70</fps>
+					<percent>70</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+			</games>
+		</comp>
+		<comp>
+			<name>HELLCAT PRO</name>
+			<price>15 299</price>
+			<oldprice>16 946</oldprice>
+			<pp>0</pp>
+			<nacenka>
+				<old>4042</old>
+				<new>1748</new>
+			</nacenka>
+			<games>
+				<game>
+					<name>DOOM 4</name>
+					<fps>49</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>44</fps>
+					<percent>80</percent>
+					<color>#66CC00</color>
+					<percent>67</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>BATTLEFIELD 1</name>
+					<fps>50</fps>
+					<percent>80</percent>
+					<color>#33BF36</color>
+					<fps>45</fps>
+					<percent>75</percent>
+					<color>#66CC00</color>
+					<percent>67</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>FOR HONOR</name>
+					<fps>48</fps>
+					<percent>80</percent>
+					<color>#33BF36</color>
+					<fps>40</fps>
+					<percent>60</percent>
+					<color>#66CC00</color>
+					<percent>69</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>GTA 5</name>
+					<fps>58</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>50</fps>
+					<percent>75</percent>
+					<color>#66CC00</color>
+					<percent>81</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Fall out</name>
+					<fps>56</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>44</fps>
+					<percent>55</percent>
+					<color>#66CC00</color>
+					<percent>93</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>OVERWATCH122</name>
+					<fps>79</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>46</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>ARK: Survival Evolved</name>
+					<fps>28</fps>
+					<percent>50</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>PlayerUnknown's Battlegrounds</name>
+					<fps>40</fps>
+					<percent>45</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Minecraft</name>
+					<fps>420</fps>
+					<percent>95</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>League of Legends</name>
+					<fps>140</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>FIFA 18</name>
+					<fps>106</fps>
+					<percent>65</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Wolfenstein II: The New Colossus</name>
+					<fps>47</fps>
+					<percent>45</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Warface</name>
+					<fps>105</fps>
+					<percent>82</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Armored Warfare</name>
+					<fps>46</fps>
+					<percent>46</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Rust</name>
+					<fps>62</fps>
+					<percent>65</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Dota 2</name>
+					<fps>115</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Counter-Strike: Global Offensive</name>
+					<fps>170</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Word of Tanks</name>
+					<fps>55</fps>
+					<percent>60</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Assassin’s Creed Origins</name>
+					<fps>41</fps>
+					<percent>65</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Call of Duty: WWII</name>
+					<fps>70</fps>
+					<percent>70</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+			</games>
+		</comp>
+		<comp>
+			<name>PRO GAMER 3000</name>
+			<price>14 999</price>
+			<oldprice>17 358</oldprice>
+			<pp>0</pp>
+			<nacenka>
+				<old>4507</old>
+				<new>1798</new>
+			</nacenka>
+			<games>
+				<game>
+					<name>DOOM 4</name>
+					<fps>70</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>63</fps>
+					<percent>90</percent>
+					<color>#66CC00</color>
+					<percent>96</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>BATTLEFIELD 1</name>
+					<fps>64</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>58</fps>
+					<percent>75</percent>
+					<color>#66CC00</color>
+					<percent>89</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>FOR HONOR</name>
+					<fps>61</fps>
+					<percent>85</percent>
+					<color>#33BF36</color>
+					<fps>50</fps>
+					<percent>65</percent>
+					<color>#66CC00</color>
+					<percent>85</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>GTA 5</name>
+					<fps>65</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>55</fps>
+					<percent>75</percent>
+					<color>#66CC00</color>
+					<percent>91</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Ведьмак 3</name>
+					<fps>64</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>44</fps>
+					<percent>55</percent>
+					<color>#66CC00</color>
+					<percent>93</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>OVERWATCH</name>
+					<fps>83</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>ARK: Survival Evolved</name>
+					<fps>32</fps>
+					<percent>56</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>PlayerUnknown's Battlegrounds</name>
+					<fps>67</fps>
+					<percent>46</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>46</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Minecraft</name>
+					<fps>500</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>League of Legends</name>
+					<fps>156</fps>
+					<percent>95</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>95</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>FIFA 18</name>
+					<fps>98</fps>
+					<percent>92</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Wolfenstein II: The New Colossus</name>
+					<fps>40</fps>
+					<percent>72</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Warface</name>
+					<fps>143</fps>
+					<percent>76</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>GTA.SanAndreas Multiplayer</name>
+					<fps>93</fps>
+					<percent>77</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Armored Warfare</name>
+					<fps>71</fps>
+					<percent>82</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Rust</name>
+					<fps>39</fps>
+					<percent>53</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>53</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Dota 2</name>
+					<fps>60</fps>
+					<percent>78</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>78</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Counter-Strike: Global Offensive</name>
+					<fps>210</fps>
+					<percent>95</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Assassin’s Creed Origins</name>
+					<fps>44</fps>
+					<percent>79</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Call of Duty: WWII</name>
+					<fps>68</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+			</games>
+		</comp>
+		<comp>
+			<name>ZEUS EVO</name>
+			<price>5 799</price>
+			<oldprice>6 468</oldprice>
+			<pp>0</pp>
+			<nacenka>
+				<old>1934</old>
+				<new>1058</new>
+			</nacenka>
+			<games>
+				<game>
+					<name>CS GO</name>
+					<fps>42</fps>
+					<percent>70</percent>
+					<color>#33BF36</color>
+					<fps>35</fps>
+					<percent>58</percent>
+					<color>#66CC00</color>
+					<percent>70</percent>
+					<color>#C5DF00</color>
+				</game>
+				<game>
+					<name>World of tanks</name>
+					<fps>40</fps>
+					<percent>66</percent>
+					<color>#33BF36</color>
+					<fps>35</fps>
+					<percent>58</percent>
+					<color>#66CC00</color>
+					<percent>66</percent>
+					<color>#C5DF00</color>
+				</game>
+				<game>
+					<name>Dota 2</name>
+					<fps>50</fps>
+					<percent>83</percent>
+					<color>#33BF36</color>
+					<fps>37</fps>
+					<percent>61</percent>
+					<color>#66CC00</color>
+					<percent>83</percent>
+					<color>#C5DF00</color>
+				</game>
+				<game>
+					<name>World of Warships</name>
+					<fps>33</fps>
+					<percent>55</percent>
+					<color>#33BF36</color>
+					<fps>27</fps>
+					<percent>45</percent>
+					<color>#66CC00</color>
+					<percent>55</percent>
+					<color>#C5DF00</color>
+				</game>
+				<game>
+					<name>War thunder</name>
+					<fps>52</fps>
+					<percent>86</percent>
+					<color>#33BF36</color>
+					<fps>40</fps>
+					<percent>66</percent>
+					<color>#66CC00</color>
+					<percent>86</percent>
+					<color>#C5DF00</color>
+				</game>
+				<game>
+					<name>GTA 5</name>
+					<fps>32</fps>
+					<percent>53</percent>
+					<color>#33BF36</color>
+					<fps>19</fps>
+					<percent>31</percent>
+					<color>##D5E100</color>
+					<percent>53</percent>
+					<color>#C5DF00</color>
+				</game>
+				<game>
+					<name>Minecraft</name>
+					<fps>31</fps>
+					<percent>23</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>League of Legends</name>
+					<fps>50</fps>
+					<percent>30</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>OVERWATCH122</name>
+					<fps>40</fps>
+					<percent>45</percent>
+					<color>#33BF36</color>
+					<fps>46</fps>
+					<percent>45</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Grand Theft Auto: San Andreas</name>
+					<fps>45</fps>
+					<percent>45</percent>
+					<color>#33BF36</color>
+					<fps>46</fps>
+					<percent>45</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+			</games>
+		</comp>
+		<comp>
+			<name>BACK TO SCHOOL</name>
+			<price>7 599</price>
+			<oldprice>8 576</oldprice>
+			<pp>0</pp>
+			<nacenka>
+				<old>2746</old>
+				<new>1171</new>
+			</nacenka>
+			<games>
+				<game>
+					<name>CS GO</name>
+					<fps>50</fps>
+					<percent>78</percent>
+					<color>#33BF36</color>
+					<fps>40</fps>
+					<percent>66</percent>
+					<color>#66CC00</color>
+					<percent>66</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>World of tanks</name>
+					<fps>45</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>37</fps>
+					<percent>60</percent>
+					<color>#66CC00</color>
+					<percent>60</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>Dota 2</name>
+					<fps>55</fps>
+					<percent>91</percent>
+					<color>#33BF36</color>
+					<fps>41</fps>
+					<percent>68</percent>
+					<color>#66CC00</color>
+					<percent>68</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>World of Warships</name>
+					<fps>40</fps>
+					<percent>66</percent>
+					<color>#33BF36</color>
+					<fps>27</fps>
+					<percent>45</percent>
+					<color>#66CC00</color>
+					<percent>45</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>War thunde</name>
+					<fps>54</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>42</fps>
+					<percent>70</percent>
+					<color>#66CC00</color>
+					<percent>70</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>GTA 5</name>
+					<fps>37</fps>
+					<percent>61</percent>
+					<color>#33BF36</color>
+					<fps>27</fps>
+					<percent>45</percent>
+					<color>#D5E100</color>
+					<percent>45</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>Minecraft</name>
+					<fps>37</fps>
+					<percent>25</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>League of Legends</name>
+					<fps>77</fps>
+					<percent>30</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Armored Warfare</name>
+					<fps>52</fps>
+					<percent>30</percent>
+					<color>#33BF36</color>
+					<fps>32</fps>
+					<percent>45</percent>
+					<color>#FFE200</color>
+					<percent>54</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>OVERWATCH122</name>
+					<fps>35</fps>
+					<percent>45</percent>
+					<color>#33BF36</color>
+					<fps>46</fps>
+					<percent>45</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+			</games>
+		</comp>
+		<comp>
+			<name>WORLD OF TANKS</name>
+			<price>8 899</price>
+			<oldprice>9 964</oldprice>
+			<pp>0</pp>
+			<nacenka>
+				<old>3040</old>
+				<new>1422</new>
+			</nacenka>
+			<games>
+				<game>
+					<name>Counter-Strike: Global Offensive</name>
+					<fps>122</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>95</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>World of tanks</name>
+					<fps>98</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>65</fps>
+					<percent>70</percent>
+					<color>#66CC00</color>
+					<percent>97</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>Dota 2</name>
+					<fps>87</fps>
+					<percent>90</percent>
+					<color>#33BF36</color>
+					<fps>69</fps>
+					<percent>65</percent>
+					<color>#66CC00</color>
+					<percent>93</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>World of Warships</name>
+					<fps>72</fps>
+					<percent>70</percent>
+					<color>#33BF36</color>
+					<fps>55</fps>
+					<percent>55</percent>
+					<color>#66CC00</color>
+					<percent>75</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>War thunde</name>
+					<fps>57</fps>
+					<percent>55</percent>
+					<color>#33BF36</color>
+					<fps>42</fps>
+					<percent>45</percent>
+					<color>#66CC00</color>
+					<percent>59</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>GTA 5</name>
+					<fps>46</fps>
+					<percent>46</percent>
+					<color>#33BF36</color>
+					<fps>37</fps>
+					<percent>37</percent>
+					<color>#66CC00</color>
+					<percent>48</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>ARK: Survival Evolved</name>
+					<fps>22</fps>
+					<percent>34</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>34</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>PlayerUnknown's Battlegrounds</name>
+					<fps>22</fps>
+					<percent>30</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>30</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Minecraft</name>
+					<fps>60</fps>
+					<percent>75</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>League of Legends</name>
+					<fps>30</fps>
+					<percent>68</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>68</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>FIFA 18</name>
+					<fps>55</fps>
+					<percent>70</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Warface</name>
+					<fps>65</fps>
+					<percent>65</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>65</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>GTA.SanAndreas Multiplayer</name>
+					<fps>55</fps>
+					<percent>65</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+				<game>
+					<name>Rust</name>
+					<fps>35</fps>
+					<percent>47</percent>
+					<color>#33BF36</color>
+					<fps>72</fps>
+					<percent>47</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#B0DC00</color>
+				</game>
+			</games>
+		</comp>
+		<comp>
+			<name>AVENTADOR</name>
+			<price>0</price>
+			<oldprice>0</oldprice>
+			<pp>0</pp>
+			<nacenka>
+				<old>10516</old>
+				<new>4553</new>
+			</nacenka>
+			<games>
+				<game>
+					<name>DOOM 4</name>
+					<fps>236</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>163</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>BATTLEFIELD 1</name>
+					<fps>231</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>171</fps>
+					<percent>70</percent>
+					<color>#66CC00</color>
+					<percent>92</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>CS:GO</name>
+					<fps>529</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>346</fps>
+					<percent>60</percent>
+					<color>#66CC00</color>
+					<percent>96</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>GTA 5</name>
+					<fps>206</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>134</fps>
+					<percent>90</percent>
+					<color>#66CC00</color>
+					<percent>98</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>Ведьмак 3</name>
+					<fps>220</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>130</fps>
+					<percent>55</percent>
+					<color>#66CC00</color>
+					<percent>93</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>OVERWATCH</name>
+					<fps>269</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>107</fps>
+					<percent>85</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#A0DA00</color>
+				</game>
+			</games>
+		</comp>
+		<comp>
+			<name>Intel X299</name>
+			<price>0</price>
+			<oldprice>0</oldprice>
+			<pp>0</pp>
+			<nacenka>
+				<old>10615</old>
+				<new>6050</new>
+			</nacenka>
+			<games>
+				<game>
+					<name>DOOM 4</name>
+					<fps>236</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>163</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>BATTLEFIELD 1</name>
+					<fps>231</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>171</fps>
+					<percent>70</percent>
+					<color>#66CC00</color>
+					<percent>92</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>CS:GO</name>
+					<fps>529</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>346</fps>
+					<percent>60</percent>
+					<color>#66CC00</color>
+					<percent>96</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>GTA 5</name>
+					<fps>206</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>134</fps>
+					<percent>90</percent>
+					<color>#66CC00</color>
+					<percent>98</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>Ведьмак 3</name>
+					<fps>220</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>130</fps>
+					<percent>55</percent>
+					<color>#66CC00</color>
+					<percent>93</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>OVERWATCH</name>
+					<fps>269</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>107</fps>
+					<percent>85</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#A0DA00</color>
+				</game>
+			</games>
+		</comp>
+		<comp>
+			<name>AMD Ryzen Threadripper</name>
+			<price>0</price>
+			<oldprice>0</oldprice>
+			<pp>0</pp>
+			<nacenka>
+				<old>10830</old>
+				<new>6029</new>
+			</nacenka>
+			<games>
+				<game>
+					<name>DOOM 4</name>
+					<fps>236</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>163</fps>
+					<percent>100</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>BATTLEFIELD 1</name>
+					<fps>231</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>171</fps>
+					<percent>70</percent>
+					<color>#66CC00</color>
+					<percent>92</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>CS:GO</name>
+					<fps>529</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>346</fps>
+					<percent>60</percent>
+					<color>#66CC00</color>
+					<percent>96</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>GTA 5</name>
+					<fps>206</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>134</fps>
+					<percent>90</percent>
+					<color>#66CC00</color>
+					<percent>98</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>Ведьмак 3</name>
+					<fps>220</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>130</fps>
+					<percent>55</percent>
+					<color>#66CC00</color>
+					<percent>93</percent>
+					<color>#A0DA00</color>
+				</game>
+				<game>
+					<name>OVERWATCH</name>
+					<fps>269</fps>
+					<percent>100</percent>
+					<color>#33BF36</color>
+					<fps>107</fps>
+					<percent>85</percent>
+					<color>#66CC00</color>
+					<percent>100</percent>
+					<color>#A0DA00</color>
+				</game>
+			</games>
+		</comp>
+	</computers>
+</regard>
